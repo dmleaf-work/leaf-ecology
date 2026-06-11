@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leaf Ecology — Ramen. Poker. Race.</title>
+  <meta name="description" content="ラーメン、ポーカー、競馬　趣味に捧げた人の記録">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Noto+Sans+JP:wght@400;700;900&display=swap" rel="stylesheet">
+
+  <!-- スタイルシート -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ── NAVIGATION ── -->
+<nav>
+  <a href="#" class="nav-logo">
+    <div class="nav-logo-icon">🍃</div>
+    <span>Leaf Ecology</span>
+  </a>
+  <ul class="nav-links">
+    <li><a href="#about">About</a></li>
+    <li><a href="#ramen">Ramen</a></li>
+    <li><a href="#" style="pointer-events:none; opacity:0.35; cursor:default;">Poker</a></li>
+    <li><a href="#contact" class="nav-cta">Contact ✦</a></li>
+  </ul>
+</nav>
+
+<!-- ── HERO ── -->
+<section class="hero" id="home">
+
+  <!-- 左：テキスト -->
+  <div class="hero-left">
+    <h1 class="hero-headline">
+      <strong>RAMEN</strong><span class="dot dot-red">●</span><br>
+      <strong>POKER</strong><span class="dot dot-yellow">●</span><br>
+      <strong>RACE</strong><span class="dot dot-green">●</span>
+    </h1>
+
+    <p class="hero-sub">ラーメン、ポーカー、競馬　趣味に捧げた人の記録</p>
+
+    <div style="flex:1;"></div>
+  </div>
+
+  <!-- 右：イラスト画像 -->
+  <div class="hero-right" aria-hidden="true">
+    <div class="hero-illustration">
+
+      <!-- メインビジュアル（馬・競馬・チップ一体） -->
+      <img
+        src="assets/images/horse_transparent.png"
+        class="hi-horse"
+        alt="">
+
+    </div>
+  </div>
+
+  <!-- ── フローティングクイックアクセスバー ── -->
+  <div class="hero-bar-wrap">
+    <div class="hero-bar">
+
+      <!-- ラーメン記録 — アクティブ -->
+      <a href="#ramen" class="hbar-item">
+        <div class="hbar-icon hbi-ramen">
+          <img
+            src="assets/images/icons_transparent.png"
+            class="hbar-img-icon"
+            style="object-position: 17% 50%;"
+            alt="ramen">
+        </div>
+        <div class="hbar-text">
+          <span class="hbar-title">ラーメン記録</span>
+          <span class="hbar-label">Ramen Notes</span>
+        </div>
+        <div class="hbar-arrow">→</div>
+      </a>
+
+      <!-- ポーカー — 開発中 -->
+      <div class="hbar-item hbar-disabled">
+        <div class="hbar-icon hbi-poker">
+          <img
+            src="assets/images/icons_transparent.png"
+            class="hbar-img-icon"
+            style="object-position: 50% 50%;"
+            alt="poker">
+        </div>
+        <div class="hbar-text">
+          <span class="hbar-title">ポーカー</span>
+          <span class="hbar-label">開発中 · Coming Soon</span>
+        </div>
+        <div class="hbar-coming">準備中</div>
+      </div>
+
+      <!-- 競馬あれこれ — 開発中 -->
+      <div class="hbar-item hbar-disabled">
+        <div class="hbar-icon hbi-race">
+          <img
+            src="assets/images/icons_transparent.png"
+            class="hbar-img-icon"
+            style="object-position: 83% 50%;"
+            alt="race">
+        </div>
+        <div class="hbar-text">
+          <span class="hbar-title">競馬あれこれ</span>
+          <span class="hbar-label">開発中 · Coming Soon</span>
+        </div>
+        <div class="hbar-coming">準備中</div>
+      </div>
+
+    </div>
+  </div>
+
+</section>
+
+<!-- JavaScript -->
+<script src="script.js"></script>
+</body>
+</html>
