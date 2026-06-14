@@ -13,6 +13,7 @@
 - [x] `ramen.html` の `.review-card.featured .review-name` は不要 CSS なので削除 ✅
 - ~~`page-sub` テキストの設定~~ → 不要のため削除
 - ~~`ramen-converter.html` の実装~~ → 不要のため削除
+- [x] SP: 激推しカードの幅崩れ修正・店名が長い場合の省略対応 ✅
 
 ## データ
 
