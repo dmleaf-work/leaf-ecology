@@ -27,13 +27,15 @@
 
 ## データ
 
-ramen.json を使用
+ramen-data.json を使用
 
 ## ルール
 
 - レスポンシブ対応
 - JavaScriptはES6
 - コメントは日本語
+- 作業開始時はtodo.mdに作業内容を記載
+- 作業終了後に完了内容をtodo.mdとdecisions.mdを更新する
 
 ## 参照資料
 

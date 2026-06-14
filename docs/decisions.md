@@ -82,6 +82,14 @@ leaf-ecology/
 
 ## 未解決 / 残作業
 
-- `ramen.html:250` に `.review-card.featured .review-name` の不要な CSS が残存
-- `page-sub` が現在空になっている（要確認）
-- `ramen-converter.html` の実装が未完了
+- 画像ファイルの配置（`assets/images/` および `images/`）
+- `ramen-data.json` に実データを追加（現在サンプル8件）
+
+## 変更履歴
+
+| 日付 | 内容 |
+|---|---|
+| 2026-06-15 | `.review-card.featured .review-name` の不要 CSS を削除 |
+| 2026-06-15 | `CLAUDE.md` のデータファイル名を `ramen.json` → `ramen-data.json` に修正 |
+| 2026-06-15 | `page-sub` テキスト設定・`ramen-converter.html` 実装を不要タスクとして削除 |
+| 2026-06-15 | 画像ファイル配置完了・`ramen-data.json` に実データ追加完了 |
