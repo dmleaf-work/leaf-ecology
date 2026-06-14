@@ -23,7 +23,7 @@
       --gray:        #6B7280;
       --gray-light:  #e5e7eb;
       --white:       #ffffff;
-      --red:         #E53935;
+      --red:         #e9502a;
     }
 
     html { scroll-behavior: smooth; }
@@ -116,8 +116,8 @@
     }
     .stat-card:hover { transform: translateY(-3px); box-shadow: 0 12px 32px rgba(0,0,0,0.08); }
     .stat-card.accent-green { background: var(--green); color: white; }
-    .stat-card.accent-orange { background: var(--orange); color: white; }
     .stat-card.accent-dark { background: var(--dark); color: white; }
+    .stat-card.accent-red { background: var(--red); color: white; }
     .stat-bg-emoji {
       position: absolute; right: -8px; bottom: -8px;
       font-size: 4.5rem; opacity: 0.1; line-height: 1;
@@ -314,7 +314,7 @@
       font-size: 1.6rem; font-weight: 900; letter-spacing: -0.05em;
       color: var(--gray-light); line-height: 1; flex-shrink: 0; width: 28px;
     }
-    .fav-rank.top { color: var(--orange); }
+    .fav-rank.top { color: var(--red); }
     .fav-img {
       width: 44px; height: 44px; border-radius: 10px;
       object-fit: cover; flex-shrink: 0; background: var(--beige);
@@ -423,7 +423,7 @@
 
   <!-- ── PAGE HEADER ── -->
   <div class="page-header">
-    <div class="page-eyebrow">Field Notes</div>
+    <div class="page-eyebrow">Ramen Notes</div>
     <h1 class="page-title">ラーメン記録</h1>
     <p class="page-sub"></p>
   </div>
@@ -434,16 +434,16 @@
       <div class="stat-label">Total Bowls</div>
       <div class="stat-num" id="stat-bowls">0</div>
       <div class="stat-desc">食べた杯数</div>
-      <div class="stat-bg-emoji">🍜</div>
+      <img class="stat-bg-img" src="assets/images/ramen.png" alt="">
     </div>
-    <div class="stat-card accent-orange">
+    <div class="stat-card accent-dark">
       <div class="stat-label">Shops Visited</div>
       <div class="stat-num" id="stat-shops">0</div>
       <div class="stat-desc">訪問した店舗数</div>
-      <div class="stat-bg-emoji">🏮</div>
+      <img class="stat-bg-img" src="assets/images/ramenya.png" alt="">
     </div>
-    <div class="stat-card accent-dark">
-      <div class="stat-label">激推し</div>
+    <div class="stat-card accent-red">
+      <div class="stat-label">Most Favarite</div>
       <div class="stat-num" id="stat-favs">0</div>
       <div class="stat-desc">激推しの店舗数</div>
       <img class="stat-bg-img" src="assets/images/gekiosi.png" alt="">
@@ -452,7 +452,7 @@
       <div class="stat-label">最終更新</div>
       <div class="stat-num" id="stat-latest" style="font-size:1.1rem; padding-top:0.2rem;">—</div>
       <div class="stat-desc">直近の更新</div>
-      <div class="stat-bg-emoji">📅</div>
+      <div class="stat-bg-emoji"></div>
     </div>
   </div>
 
