@@ -55,13 +55,16 @@
     "id": 217,
     "name": "塩生姜らー麺専門店 MANNISH 淡路町本店",
     "location": "📍 淡路町、小川町、神田, 東京都",
-    "type": "ラーメン",
+    "type": "塩",
     "date": "2026.02",
     "image": "assets/ramen/塩生姜らー麺専門店 MANNISH 淡路町本店.jpg",
     "featured": true,
     "favorite": true,
-    "note": "nan",
-    "tags": [],
+    "note": "生姜の価値観が変わる塩ラーメン　生姜を溶かすごとに味がかわり最後まで楽しめる　みんな行って欲しい",
+    "tags": [
+      "塩",
+      "つけ麺"
+    ],
     "visits": 15,
     "area": "淡路町、小川町、神田"
   },
@@ -69,13 +72,16 @@
     "id": 218,
     "name": "NIBOSHI MANIA",
     "location": "📍 蒲田、蓮沼、京急蒲田, 東京都",
-    "type": "ラーメン",
+    "type": "煮干",
     "date": "2023.07",
     "image": "assets/ramen/NIBOSHI MANIA.jpg",
     "featured": true,
     "favorite": true,
-    "note": "nan",
-    "tags": [],
+    "note": "丿貫ISM感じるお店　冷やしが特に感動するレベルで美味しい",
+    "tags": [
+      "煮干",
+      "冷やし"
+    ],
     "visits": 1,
     "area": "蒲田、蓮沼、京急蒲田"
   },
@@ -118,13 +124,16 @@
     "id": 219,
     "name": "Dad's Ramen 夢にでてきた中華そば",
     "location": "📍 自由が丘、九品仏、奥沢, 東京都",
-    "type": "ラーメン",
+    "type": "煮干",
     "date": "2025.07",
     "image": "assets/ramen/Dad's Ramen 夢にでてきた中華そば.jpg",
     "featured": true,
     "favorite": true,
-    "note": "nan",
-    "tags": [],
+    "note": "煮干ってここまで美味しくなるのという究極のお店　シンプルなものも独創的なのもありどれも美味しい",
+    "tags": [
+      "煮干",
+      "つけ麺"
+    ],
     "visits": 3,
     "area": "自由が丘、九品仏、奥沢"
   },
@@ -132,13 +141,17 @@
     "id": 220,
     "name": "らぁめん 信",
     "location": "📍 町田、古淵, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.11",
     "image": "assets/ramen/らぁめん 信.jpg",
     "featured": true,
     "favorite": true,
-    "note": "nan",
-    "tags": [],
+    "note": "昔から通ってる「らーめん進化」を進化させたお店　塩ラーメンはまずここに食べに行って欲しい",
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "町田、古淵"
   },
@@ -146,13 +159,16 @@
     "id": 221,
     "name": "らーめん 鴨to葱",
     "location": "📍 御徒町、仲御徒町、上野御徒町, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.10",
     "image": "assets/ramen/らーめん 鴨to葱.jpg",
     "featured": true,
     "favorite": true,
-    "note": "nan",
-    "tags": [],
+    "note": "鴨出汁を感じるちょっと甘めの醤油がとても好み　葱が選べるというのも粋　親子丼も美味い",
+    "tags": [
+      "醤油",
+      "つけ麺"
+    ],
     "visits": 4,
     "area": "御徒町、仲御徒町、上野御徒町"
   },
@@ -178,13 +194,16 @@
     "id": 222,
     "name": "味噌らーめん屋 ちょりん",
     "location": "📍 学習院下、面影橋、高田馬場, 東京都",
-    "type": "ラーメン",
+    "type": "味噌",
     "date": "2025.10",
     "image": "assets/ramen/味噌らーめん屋 ちょりん.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
-    "tags": [],
+    "note": "味噌ラーメン個人的No1　味噌の風味と具材を炒めた香ばしさがMIXされ箸がとまらない",
+    "tags": [
+      "味噌",
+      "油そば/混ぜそば"
+    ],
     "visits": 1,
     "area": "学習院下、面影橋、高田馬場"
   },
@@ -246,7 +265,7 @@
     "image": "assets/ramen/Homemade Ramen 麦苗.jpg",
     "featured": true,
     "favorite": false,
-    "note": "ハイレベル醤油ラーメン　食べて安心するラーメンの究極",
+    "note": "ハイレベル醤油ラーメン　食べて安心するラーメンの究極　マグロ丼があるのもいい",
     "tags": [
       "醤油",
       "塩",
@@ -316,7 +335,7 @@
     "image": "assets/ramen/だし・麺 未蕾.jpg",
     "featured": true,
     "favorite": false,
-    "note": "煮干を感じる醤油ラーメン　見栄え美しい　食べたら煮干醤油に求めているものすべて入っている",
+    "note": "煮干を感じる醤油ラーメン　見栄え美しい　食べたら煮干醤油に求めているものすべて入っている　愛知だけど通いたい",
     "tags": [
       "醤油"
     ],
@@ -380,7 +399,7 @@
     "image": "assets/ramen/ケンチャンラーメン 山形.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "山形で出会ってときめいたラーメン　出汁感ある醤油がとても美味しい、身入りという脂を加えると風味がまして美味さ極まる",
     "tags": [
       "醤油"
     ],
@@ -396,7 +415,7 @@
     "image": "assets/ramen/ラーメン家 あかぎ.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "大阪で流行りの鶏白湯の中でも頭一つ抜けて好き　超口当たりよくスープだけでも完成されてる　チャーシューも美味",
     "tags": [
       "白湯"
     ],
@@ -458,7 +477,7 @@
     "image": "assets/ramen/上方レインボー.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "醤油のキレと細麺の相性が抜群、トッピングもめちゃくちゃ美味い",
     "tags": [
       "醤油"
     ],
@@ -508,7 +527,7 @@
     "image": "assets/ramen/川の先の上.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "神奈川で食べれる安心感ある超ハイクオリティ醤油　　塩と味噌も食べたいけど醤油に吸い込まれる",
     "tags": [
       "醤油"
     ],
@@ -586,13 +605,17 @@
     "id": 224,
     "name": "煮干しNoodles Nibo Nibo Cino",
     "location": "📍 旗の台、荏原町、長原, 東京都",
-    "type": "ラーメン",
+    "type": "煮干",
     "date": "2026.05",
     "image": "assets/ramen/煮干しNoodles Nibo Nibo Cino.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
-    "tags": [],
+    "note": "煮干し×イタリアンをやってる超独創的なお店　煮干好きに刺さる食べたこと無いラーメン？が提供される　店は超おしゃれでデザートまでついてくる",
+    "tags": [
+      "煮干",
+      "油そば/混ぜそば",
+      "その他"
+    ],
     "visits": 2,
     "area": "旗の台、荏原町、長原"
   },
@@ -600,13 +623,17 @@
     "id": 225,
     "name": "中華蕎麦 三藤",
     "location": "📍 緑が丘、大岡山、都立大学, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2020.05",
     "image": "assets/ramen/中華蕎麦 三藤.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
-    "tags": [],
+    "note": "とてもバランスがいい醤油ラーメン　食べた後にあー美味かったとしみじみ感じる",
+    "tags": [
+      "醤油",
+      "塩",
+      "白湯"
+    ],
     "visits": 1,
     "area": "緑が丘、大岡山、都立大学"
   },
@@ -646,13 +673,16 @@
     "id": 223,
     "name": "町田汁場 しおらーめん 進化 町田駅前店",
     "location": "📍 町田, 東京都",
-    "type": "ラーメン",
+    "type": "塩",
     "date": "2021.05",
     "image": "assets/ramen/町田汁場 しおらーめん 進化 町田駅前店.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
-    "tags": [],
+    "note": "個人的には塩つけ麺がすごく好み　麺のもち感とスープのキリッと感でやられる　ぷしゅ柑を入れるとさわかでスープまでごくごくいける",
+    "tags": [
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "町田"
   },
@@ -665,7 +695,7 @@
     "image": "assets/ramen/しおらーめん進化 2nd.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "安定の進化　塩と出汁のバランスに惚れ惚れする　つけ麺も食べに行きたいなぁ",
     "tags": [
       "塩",
       "つけ麺"
@@ -682,7 +712,7 @@
     "image": "assets/ramen/三ん寅.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "純すみ系　味噌生姜にはまるきっかけ　チャーシューが好み　東京の人は行きましょう",
     "tags": [
       "味噌"
     ],
@@ -698,7 +728,7 @@
     "image": "assets/ramen/ラーメン 郷.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "純すみ系　味噌生姜好きは行くべき　ご飯系も美味い　醤油と塩も食べに行きたい",
     "tags": [
       "味噌"
     ],
@@ -709,13 +739,15 @@
     "id": 228,
     "name": "串あげ ムタヒロ 4号店",
     "location": "📍 国分寺, 東京都",
-    "type": "ラーメン",
+    "type": "その他",
     "date": "",
     "image": "",
     "featured": true,
     "favorite": false,
-    "note": "nan",
-    "tags": [],
+    "note": "ムタヒロ系列の居酒屋、どれ食べても美味い、ラーメンの具材の串カツがある　ここでラーメンは食べたこと無い",
+    "tags": [
+      "その他"
+    ],
     "visits": 1,
     "area": "国分寺"
   },
@@ -723,13 +755,15 @@
     "id": 226,
     "name": "人類みな麺類 東京本店",
     "location": "📍 代官山、恵比寿、中目黒, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2021.03",
     "image": "assets/ramen/人類みな麺類 東京本店.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
-    "tags": [],
+    "note": "大阪特有ちょい甘醤油の東京旗艦店　大戦争が好きな人はすごく刺さるはず　本店には行ったことがない",
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "代官山、恵比寿、中目黒"
   },
@@ -737,13 +771,17 @@
     "id": 227,
     "name": "麺処 にしむら",
     "location": "📍 今福鶴見、新森古市, 大阪府",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.12",
     "image": "assets/ramen/麺処 にしむら.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
-    "tags": [],
+    "note": "鶴麺の流れを汲むお店　滅茶苦茶好きなんだけどこの味ここでしか食べれないんだよなぁ　特につけ麺が推し",
+    "tags": [
+      "醤油",
+      "白湯",
+      "つけ麺"
+    ],
     "visits": 2,
     "area": "今福鶴見、新森古市"
   },
@@ -756,7 +794,7 @@
     "image": "assets/ramen/タンタン.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "魅惑のビジュアル　シンプルそうなのに食べたこと無いコクを感じる奥深い醤油にめちゃくちゃハマる　　あのコクはラードなのかな",
     "tags": [
       "醤油"
     ],
@@ -772,7 +810,7 @@
     "image": "assets/ramen/雨は、やさしく NO,2.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "ビジュに惚れて北海道で最初に食べたラーメン　おしゃれなお店でしゃれた白湯　帆立好きにたまらない　トッピングのごぼうもグー",
     "tags": [
       "白湯"
     ],
@@ -788,7 +826,7 @@
     "image": "assets/ramen/すみれ 横浜店.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "純すみ系直系　味噌生姜好きはマスト　トッピングも含めると純すみ系で一番好きかもしれない(微差)",
     "tags": [
       "味噌"
     ],
@@ -804,7 +842,7 @@
     "image": "assets/ramen/麺屋さくら.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "愛知で感動受けた冷やし　麺がチュルチュルの激ウマ、チャーシューが類を見ないくらい美味い　愛知だけど通いたい2",
     "tags": [
       "醤油",
       "冷やし"
@@ -821,7 +859,7 @@
     "image": "assets/ramen/RAMEN ガモウスマイル.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "ラーメンにはまったきっかけのCliffの流れを汲むお店　鶏白湯(※限定)が美味すぎて美味すぎて　どうにか関東でも食べれませんかね",
     "tags": [
       "白湯"
     ],
@@ -837,7 +875,7 @@
     "image": "assets/ramen/大阪麺哲.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "冷やしの「山」というビジュアルが美味すぎる一品　味もとろっとした口当たりと出汁感あるスープが絡んで滅茶苦茶美味い",
     "tags": [
       "醤油",
       "冷やし"
@@ -854,7 +892,7 @@
     "image": "assets/ramen/陽はまたのぼる.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "濃厚煮干と冷や煮干に脳焼かれた要因　煮干に好きに刺さるエッジのきいた濃厚と煮干香るエッジのきいた冷やしどっちも美味い",
     "tags": [
       "煮干"
     ],
@@ -870,7 +908,7 @@
     "image": "assets/ramen/自家製麺 公園前.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "愛知で感動受けた冷やし2　ベースとなる塩スープがうますぎてめちゃくちゃ冷やしとあう　通常の塩ラーメンも食べに行きたい",
     "tags": [
       "塩",
       "冷やし"
@@ -887,7 +925,7 @@
     "image": "assets/ramen/中華そば 四つ葉.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "醤油のキレ多め鶏を感じるスープが抜群　催事で食べたので本店に行きたいよ",
     "tags": [
       "醤油"
     ],
@@ -903,7 +941,7 @@
     "image": "assets/ramen/入鹿TOKYO 六本木.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "安定感のある醤油にクオリティ高いトッピング　特に別添えのポルチーニを入れると風味が変わり特に好みになる",
     "tags": [
       "醤油"
     ],
@@ -919,7 +957,7 @@
     "image": "assets/ramen/あさひ町内会.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "純すみ系　寒い日に食べる純すみ系は無条件に美味いのよ　カレーもあるよ",
     "tags": [
       "味噌"
     ],
@@ -951,7 +989,7 @@
     "image": "assets/ramen/手打ち中華そば 酒田.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "ケンチャンラーメンライクなラーメンを食べれるお店　出汁感ある醤油と身入りで山形に来た気分",
     "tags": [
       "醤油"
     ],
@@ -967,7 +1005,7 @@
     "image": "assets/ramen/味噌っ子 ふっく.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "味噌にハマるきっかけ　濃厚だけどどんどん飲めちゃうスープと太めの麺との相性が神",
     "tags": [
       "味噌"
     ],
@@ -983,7 +1021,7 @@
     "image": "assets/ramen/麺処 懐や.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "醤油と出汁のバランス感がよくホッとする味でトッピングも抜かりない　特にチャーシュー",
     "tags": [
       "醤油"
     ],
@@ -999,7 +1037,7 @@
     "image": "assets/ramen/オランダ軒.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "濃い生姜醤油と食べ応えあるチャーシューで、食べてる感があるめちゃくちゃあるラーメン　食べた後の満足感がすごい",
     "tags": [
       "醤油"
     ],
@@ -1015,7 +1053,7 @@
     "image": "assets/ramen/大島.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "純すみ系　味噌生姜好きは行きましょう　純すみ系はどこで食べても美味しい",
     "tags": [
       "味噌"
     ],
@@ -1047,7 +1085,7 @@
     "image": "assets/ramen/中華そば 西川.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "上品なのに煮干好きを唸らせる煮干しっかりなラーメン　チャーシューが美味しい",
     "tags": [
       "煮干"
     ],
@@ -1063,7 +1101,7 @@
     "image": "",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "美しい鶏白湯　鶏白湯好きにたまらない喉越しとコクにやられちゃう",
     "tags": [
       "醤油",
       "白湯"
@@ -1075,13 +1113,15 @@
     "id": 231,
     "name": "らーめん 賛平",
     "location": "📍 鶴橋、玉造（ＪＲ）、桃谷, 大阪府",
-    "type": "ラーメン",
+    "type": "白湯",
     "date": "2025.05",
     "image": "assets/ramen/らーめん 賛平.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
-    "tags": [],
+    "note": "にんにくを食べるためといっても過言ではない　にんにくを入れて食べると中毒になる",
+    "tags": [
+      "白湯"
+    ],
     "visits": 1,
     "area": "鶴橋、玉造（ＪＲ）、桃谷"
   },
@@ -1094,7 +1134,7 @@
     "image": "assets/ramen/中華そば 無限.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "出汁にこだわりがあるお店　醤油ラーメン食べて出汁の美味さに感動をうける　関西の人は是非行ってほしい",
     "tags": [
       "醤油"
     ],
@@ -1110,7 +1150,7 @@
     "image": "assets/ramen/成城青果.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "ビジュが良すぎる　スープのバランスがよくスルスル飲める　肉丼もビジュがいいし美味しい",
     "tags": [
       "塩"
     ],
@@ -1126,7 +1166,7 @@
     "image": "assets/ramen/中華ソバ 伊吹.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "煮干好きを唸らせる荒々しさもある煮干　濃厚を突き詰めており中毒になる",
     "tags": [
       "煮干"
     ],
@@ -1142,7 +1182,7 @@
     "image": "",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "メヂカ醤油　最初に食べたインパクトがすごくいい醤油　バランス感なのかとても心地よい　チャーシューも美味い",
     "tags": [
       "醤油"
     ],
@@ -1174,7 +1214,7 @@
     "image": "assets/ramen/らー麺土俵 鶴嶺峰.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "独特な甘めの豚骨魚介つけ麺　トッピングの豚バラ肉は他に見ない　麺もわしっとしていてとても良い",
     "tags": [
       "つけ麺"
     ],
@@ -1190,7 +1230,7 @@
     "image": "assets/ramen/自家製麺 カミカゼ.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "塩と醤油どちらもハイレベルなお店　醤油は醤油と出汁のバランスよく感動する　箱根駅伝の戸塚中継書の場所にある",
     "tags": [
       "醤油"
     ],
@@ -1206,7 +1246,7 @@
     "image": "assets/ramen/元祖スタミナ満点らーめん すず鬼.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "有名になりつつあるスタ満ラーメン　独創的なラーメン　味と味のぶつかり合い　ラーメン界のUSJ",
     "tags": [
       "その他"
     ],
@@ -1222,7 +1262,7 @@
     "image": "assets/ramen/手打ち 蓮.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "手打ちのぶっとい麺が何これうまい　麺にまけないくらい醤油スープも美味いしチャーシューも半端なく美味い　塩も食べに行かないと",
     "tags": [
       "醤油"
     ],
@@ -1233,13 +1273,16 @@
     "id": 230,
     "name": "自家製麺250",
     "location": "📍 和田町、上星川、星川, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.04",
     "image": "assets/ramen/自家製麺250.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
-    "tags": [],
+    "note": "醤油が滅茶苦茶美味い、ちぢれ麺にあうスープでトッピングも全て美味い　横浜の人はすぐ行って欲しい",
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 2,
     "area": "和田町、上星川、星川"
   },
@@ -1247,13 +1290,15 @@
     "id": 232,
     "name": "久留米 大砲ラーメン 天神今泉店",
     "location": "📍 西鉄福岡（天神）、天神南、天神, 福岡県",
-    "type": "ラーメン",
+    "type": "豚骨",
     "date": "2026.04",
     "image": "assets/ramen/久留米 大砲ラーメン 天神今泉店.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
-    "tags": [],
+    "note": "衝撃を受けて豚骨にハマりそう　豚骨臭と奥深い味　豚骨が好きな人はハマる味",
+    "tags": [
+      "豚骨"
+    ],
     "visits": 1,
     "area": "西鉄福岡（天神）、天神南、天神"
   },
@@ -1261,13 +1306,17 @@
     "id": 229,
     "name": "ハちゃんラーメン",
     "location": "📍 大門、浜松町、汐留, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.08",
     "image": "assets/ramen/ハちゃんラーメン.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
-    "tags": [],
+    "note": "ほん田ISMを感じる醤油と塩で何食べても超美味い　ほん田と比べると並びも少ないため穴場スポット",
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 4,
     "area": "大門、浜松町、汐留"
   },
@@ -1295,13 +1344,18 @@
     "id": 235,
     "name": "らーめん梶原",
     "location": "📍 千歳烏山、芦花公園, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2026.05",
     "image": "assets/ramen/らーめん梶原.jpg",
     "featured": true,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "味噌",
+      "つけ麺"
+    ],
     "visits": 2,
     "area": "千歳烏山、芦花公園"
   },
@@ -1309,13 +1363,15 @@
     "id": 245,
     "name": "中華食堂 かどや",
     "location": "📍 武蔵小杉、新丸子、向河原, 神奈川県",
-    "type": "ラーメン",
+    "type": "その他",
     "date": "",
     "image": "",
     "featured": true,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "その他"
+    ],
     "visits": 1,
     "area": "武蔵小杉、新丸子、向河原"
   },
@@ -1323,13 +1379,16 @@
     "id": 234,
     "name": "中華蕎麦 無冠",
     "location": "📍 五反田、大崎広小路、不動前, 東京都",
-    "type": "ラーメン",
+    "type": "塩",
     "date": "2023.09",
     "image": "assets/ramen/中華蕎麦 無冠.jpg",
     "featured": true,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "塩",
+      "その他"
+    ],
     "visits": 1,
     "area": "五反田、大崎広小路、不動前"
   },
@@ -1342,7 +1401,7 @@
     "image": "assets/ramen/中華蕎麦 とみ田.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "言わずとしれた有名店　スープ、トッピング、麺全てにおいてハイレベルなつけ麺で感動をする　支店もクオリティ高い",
     "tags": [
       "つけ麺"
     ],
@@ -1422,7 +1481,7 @@
     "image": "assets/ramen/らーめん芝浜.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
+    "note": "ラーメンのコース(3種類のラーメン)がいただけるお店　それぞれの麺の違いというのを感じれる食べる博物館",
     "tags": [
       "醤油",
       "つけ麺"
@@ -1531,13 +1590,17 @@
     "id": 244,
     "name": "吉法師",
     "location": "📍 日の出、芝公園、浜松町, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2024.11",
     "image": "assets/ramen/吉法師.jpg",
     "featured": true,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "白湯"
+    ],
     "visits": 1,
     "area": "日の出、芝公園、浜松町"
   },
@@ -1545,13 +1608,16 @@
     "id": 243,
     "name": "ハイパーファットン",
     "location": "📍 新羽, 神奈川県",
-    "type": "ラーメン",
+    "type": "二郎系",
     "date": "2025.09",
     "image": "assets/ramen/ハイパーファットン.jpg",
     "featured": true,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "二郎系",
+      "油そば/混ぜそば"
+    ],
     "visits": 2,
     "area": "新羽"
   },
@@ -1559,13 +1625,17 @@
     "id": 242,
     "name": "サーモンnoodle3.0",
     "location": "📍 神楽坂、牛込神楽坂、江戸川橋, 東京都",
-    "type": "ラーメン",
+    "type": "白湯",
     "date": "2025.11",
     "image": "assets/ramen/サーモンnoodle3.0.jpg",
     "featured": true,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "白湯",
+      "油そば/混ぜそば",
+      "その他"
+    ],
     "visits": 2,
     "area": "神楽坂、牛込神楽坂、江戸川橋"
   },
@@ -1573,13 +1643,15 @@
     "id": 237,
     "name": "La Maison du Ramen ビスク",
     "location": "📍 東十条、王子神谷, 東京都",
-    "type": "ラーメン",
+    "type": "冷やし",
     "date": "2025.09",
     "image": "assets/ramen/La Maison du Ramen ビスク.jpg",
     "featured": true,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "冷やし"
+    ],
     "visits": 1,
     "area": "東十条、王子神谷"
   },
@@ -1587,13 +1659,16 @@
     "id": 238,
     "name": "らぁ麺 花筏",
     "location": "📍 亀戸水神、大島、亀戸, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2026.03",
     "image": "assets/ramen/らぁ麺 花筏.jpg",
     "featured": true,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "亀戸水神、大島、亀戸"
   },
@@ -1601,13 +1676,15 @@
     "id": 233,
     "name": "麺屋 周郷",
     "location": "📍 新橋、汐留、内幸町, 東京都",
-    "type": "ラーメン",
+    "type": "つけ麺",
     "date": "2024.11",
     "image": "assets/ramen/麺屋 周郷.jpg",
     "featured": true,
     "favorite": false,
-    "note": "nan",
-    "tags": [],
+    "note": "美しいつけ麺　つけ汁もトッピングもトップクラス　最後に和風出汁で割ってご飯を入れて食べるのが絶品",
+    "tags": [
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "新橋、汐留、内幸町"
   },
@@ -1615,13 +1692,16 @@
     "id": 236,
     "name": "のスた 本店",
     "location": "📍 下神明、大井町、西大井, 東京都",
-    "type": "ラーメン",
+    "type": "塩",
     "date": "",
     "image": "",
     "featured": true,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "塩",
+      "二郎系"
+    ],
     "visits": 1,
     "area": "下神明、大井町、西大井"
   },
@@ -1629,13 +1709,17 @@
     "id": 239,
     "name": "華塩",
     "location": "📍 千歳烏山、芦花公園, 東京都",
-    "type": "ラーメン",
+    "type": "塩",
     "date": "2025.11",
     "image": "assets/ramen/華塩.jpg",
     "featured": true,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "塩",
+      "煮干",
+      "その他"
+    ],
     "visits": 2,
     "area": "千歳烏山、芦花公園"
   },
@@ -1643,13 +1727,15 @@
     "id": 240,
     "name": "超多加水自家製手揉み麺 きたかた食堂",
     "location": "📍 神保町、新御茶ノ水、御茶ノ水, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2020.10",
     "image": "assets/ramen/超多加水自家製手揉み麺 きたかた食堂.jpg",
     "featured": true,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "神保町、新御茶ノ水、御茶ノ水"
   },
@@ -1657,13 +1743,15 @@
     "id": 241,
     "name": "NATURAL TASTE",
     "location": "📍 白楽、東白楽, 神奈川県",
-    "type": "ラーメン",
+    "type": "豚骨",
     "date": "2023.12",
     "image": "assets/ramen/NATURAL TASTE.jpg",
     "featured": true,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "豚骨"
+    ],
     "visits": 2,
     "area": "白楽、東白楽"
   },
@@ -1688,13 +1776,15 @@
     "id": 246,
     "name": "Ramen Afro Beats",
     "location": "📍 新宿御苑前、新宿三丁目、四谷三丁目, 東京都",
-    "type": "ラーメン",
+    "type": "白湯",
     "date": "2024.05",
     "image": "assets/ramen/Ramen Afro Beats.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "白湯"
+    ],
     "visits": 1,
     "area": "新宿御苑前、新宿三丁目、四谷三丁目"
   },
@@ -1702,13 +1792,16 @@
     "id": 247,
     "name": "塩そば専門店 桑ばら",
     "location": "📍 東池袋、池袋、東池袋四丁目, 東京都",
-    "type": "ラーメン",
+    "type": "塩",
     "date": "2022.07",
     "image": "assets/ramen/塩そば専門店 桑ばら.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "東池袋、池袋、東池袋四丁目"
   },
@@ -1716,13 +1809,16 @@
     "id": 248,
     "name": "丸 中華そば",
     "location": "📍 大井町、下神明、西大井, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2024.11",
     "image": "assets/ramen/丸 中華そば.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "味噌"
+    ],
     "visits": 1,
     "area": "大井町、下神明、西大井"
   },
@@ -1730,13 +1826,16 @@
     "id": 249,
     "name": "自家製麺 麺屋 利八",
     "location": "📍 京急川崎、川崎、港町, 神奈川県",
-    "type": "ラーメン",
+    "type": "MIX",
     "date": "2026.03",
     "image": "assets/ramen/自家製麺 麺屋 利八.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "MIX",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "京急川崎、川崎、港町"
   },
@@ -1744,13 +1843,16 @@
     "id": 251,
     "name": "鶏soba座銀 神楽坂東京本店",
     "location": "📍 飯田橋、牛込神楽坂、神楽坂, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.01",
     "image": "assets/ramen/鶏soba座銀 神楽坂東京本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "白湯"
+    ],
     "visits": 1,
     "area": "飯田橋、牛込神楽坂、神楽坂"
   },
@@ -1758,13 +1860,15 @@
     "id": 250,
     "name": "麺や 蓮と凜と仁",
     "location": "📍 天満、扇町、中崎町, 大阪府",
-    "type": "ラーメン",
+    "type": "担々麺",
     "date": "2023.08",
     "image": "assets/ramen/麺や 蓮と凜と仁.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "担々麺"
+    ],
     "visits": 1,
     "area": "天満、扇町、中崎町"
   },
@@ -1772,14 +1876,14 @@
     "id": 100,
     "name": "自家製麺 つきよみ",
     "location": "📍 上新庄、だいどう豊里、瑞光四丁目, 大阪府",
-    "type": "白湯",
+    "type": "つけ麺",
     "date": "2025.09",
     "image": "assets/ramen/自家製麺 つきよみ.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
     "tags": [
-      "白湯"
+      "つけ麺"
     ],
     "visits": 1,
     "area": "上新庄、だいどう豊里、瑞光四丁目"
@@ -2067,13 +2171,16 @@
     "id": 255,
     "name": "五ノ神水産",
     "location": "📍 淡路町、小川町、神田, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2016.03",
     "image": "assets/ramen/五ノ神水産.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "その他"
+    ],
     "visits": 1,
     "area": "淡路町、小川町、神田"
   },
@@ -2081,13 +2188,16 @@
     "id": 254,
     "name": "駄目な隣人 人形町店",
     "location": "📍 人形町、水天宮前、小伝馬町, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2023.06",
     "image": "assets/ramen/駄目な隣人 人形町店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "油そば/混ぜそば"
+    ],
     "visits": 2,
     "area": "人形町、水天宮前、小伝馬町"
   },
@@ -2095,13 +2205,16 @@
     "id": 256,
     "name": "きたかた食堂",
     "location": "📍 新橋、汐留、御成門, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2026.05",
     "image": "assets/ramen/きたかた食堂.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "味噌"
+    ],
     "visits": 1,
     "area": "新橋、汐留、御成門"
   },
@@ -2192,13 +2305,17 @@
     "id": 257,
     "name": "Ramen Jazzy Beats",
     "location": "📍 中目黒、祐天寺、代官山, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2024.11",
     "image": "assets/ramen/Ramen Jazzy Beats.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "煮干"
+    ],
     "visits": 1,
     "area": "中目黒、祐天寺、代官山"
   },
@@ -2206,13 +2323,16 @@
     "id": 258,
     "name": "TOKYO RAMEN とうか",
     "location": "📍 神田、新日本橋、淡路町, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.12",
     "image": "assets/ramen/TOKYO RAMEN とうか.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "担々麺"
+    ],
     "visits": 1,
     "area": "神田、新日本橋、淡路町"
   },
@@ -2220,13 +2340,17 @@
     "id": 259,
     "name": "メン ヤード ファイト",
     "location": "📍 反町、神奈川、東神奈川, 神奈川県",
-    "type": "ラーメン",
+    "type": "つけ麺",
     "date": "2022.11",
     "image": "assets/ramen/メン ヤード ファイト.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "つけ麺",
+      "二郎系",
+      "油そば/混ぜそば"
+    ],
     "visits": 3,
     "area": "反町、神奈川、東神奈川"
   },
@@ -2234,13 +2358,16 @@
     "id": 260,
     "name": "らぁ麺 ドゥエイタリアン GINZA GUCHI",
     "location": "📍 新橋、内幸町、汐留, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2026.05",
     "image": "assets/ramen/らぁ麺 ドゥエイタリアン GINZA GUCHI.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 3,
     "area": "新橋、内幸町、汐留"
   },
@@ -2494,13 +2621,16 @@
     "id": 252,
     "name": "ニッポン ラーメン 凛 トウキョウ",
     "location": "📍 東京、京橋、二重橋前, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.08",
     "image": "assets/ramen/ニッポン ラーメン 凛 トウキョウ.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "東京、京橋、二重橋前"
   },
@@ -2508,13 +2638,16 @@
     "id": 253,
     "name": "東京味噌らーめん 鶉",
     "location": "📍 武蔵境, 東京都",
-    "type": "ラーメン",
+    "type": "味噌",
     "date": "2026.01",
     "image": "assets/ramen/東京味噌らーめん 鶉.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "味噌",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "武蔵境"
   },
@@ -2574,13 +2707,16 @@
     "id": 261,
     "name": "山形中華そば 麺や 一球",
     "location": "📍 武蔵小山、不動前、西小山, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.03",
     "image": "assets/ramen/山形中華そば 麺や 一球.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "味噌"
+    ],
     "visits": 1,
     "area": "武蔵小山、不動前、西小山"
   },
@@ -2588,13 +2724,17 @@
     "id": 262,
     "name": "963",
     "location": "📍 京成船橋、船橋、大神宮下, 千葉県",
-    "type": "ラーメン",
+    "type": "塩",
     "date": "2026.04",
     "image": "assets/ramen/963.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "塩",
+      "味噌",
+      "その他"
+    ],
     "visits": 1,
     "area": "京成船橋、船橋、大神宮下"
   },
@@ -2602,13 +2742,16 @@
     "id": 263,
     "name": "らーめん 鱗 難波店",
     "location": "📍 難波（南海）、近鉄日本橋、日本橋, 大阪府",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2019.05",
     "image": "assets/ramen/らーめん 鱗 難波店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "難波（南海）、近鉄日本橋、日本橋"
   },
@@ -2616,13 +2759,16 @@
     "id": 264,
     "name": "鶏soba 座銀 KITTE丸の内店",
     "location": "📍 東京、二重橋前、京橋, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.06",
     "image": "assets/ramen/鶏soba 座銀 KITTE丸の内店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "白湯"
+    ],
     "visits": 1,
     "area": "東京、二重橋前、京橋"
   },
@@ -2630,13 +2776,15 @@
     "id": 138,
     "name": "麺屋 猪一",
     "location": "📍 河原町、祇園四条、清水五条, 京都府",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2024.08",
     "image": "assets/ramen/麺屋 猪一.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "河原町、祇園四条、清水五条"
   },
@@ -2644,13 +2792,16 @@
     "id": 139,
     "name": "真鯛らーめん 麺魚 本店",
     "location": "📍 錦糸町、住吉、菊川, 東京都",
-    "type": "ラーメン",
+    "type": "白湯",
     "date": "2019.08",
     "image": "assets/ramen/真鯛らーめん 麺魚 本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "白湯",
+      "つけ麺"
+    ],
     "visits": 2,
     "area": "錦糸町、住吉、菊川"
   },
@@ -2658,13 +2809,17 @@
     "id": 137,
     "name": "めん処 樹",
     "location": "📍 天王町、星川、西横浜, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2018.06",
     "image": "assets/ramen/めん処 樹.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "天王町、星川、西横浜"
   },
@@ -2689,13 +2844,15 @@
     "id": 273,
     "name": "鬼金棒 Lab",
     "location": "📍 神田、岩本町、淡路町, 東京都",
-    "type": "ラーメン",
+    "type": "白湯",
     "date": "2026.01",
     "image": "assets/ramen/鬼金棒 Lab.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "白湯"
+    ],
     "visits": 1,
     "area": "神田、岩本町、淡路町"
   },
@@ -2703,13 +2860,16 @@
     "id": 134,
     "name": "らーめん 鶏喰",
     "location": "📍 吉野町、南太田、阪東橋, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2018.06",
     "image": "assets/ramen/らーめん 鶏喰.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "吉野町、南太田、阪東橋"
   },
@@ -2717,13 +2877,17 @@
     "id": 136,
     "name": "烈志笑魚油 麺香房 三く",
     "location": "📍 新福島、中之島、福島（阪神）, 大阪府",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2021.08",
     "image": "assets/ramen/烈志笑魚油 麺香房 三く.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "煮干",
+      "つけ麺"
+    ],
     "visits": 4,
     "area": "新福島、中之島、福島（阪神）"
   },
@@ -2731,13 +2895,17 @@
     "id": 135,
     "name": "中華蕎麦 時雨 伊勢佐木長者町本店",
     "location": "📍 伊勢佐木長者町、関内、石川町, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2020.10",
     "image": "assets/ramen/中華蕎麦 時雨 伊勢佐木長者町本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "伊勢佐木長者町、関内、石川町"
   },
@@ -2811,13 +2979,18 @@
     "id": 265,
     "name": "麺創房LEO",
     "location": "📍 西焼津、焼津, 静岡県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2023.04",
     "image": "assets/ramen/麺創房LEO.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺",
+      "冷やし"
+    ],
     "visits": 1,
     "area": "西焼津、焼津"
   },
@@ -2825,13 +2998,16 @@
     "id": 266,
     "name": "平太周 味庵",
     "location": "📍 大崎広小路、五反田、大崎, 東京都",
-    "type": "ラーメン",
+    "type": "豚骨",
     "date": "2025.10",
     "image": "assets/ramen/平太周 味庵.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "豚骨",
+      "油そば/混ぜそば"
+    ],
     "visits": 2,
     "area": "大崎広小路、五反田、大崎"
   },
@@ -2839,13 +3015,15 @@
     "id": 267,
     "name": "横浜家系らーめん侍 渋谷本店",
     "location": "📍 渋谷、神泉, 東京都",
-    "type": "ラーメン",
+    "type": "家系",
     "date": "2021.08",
     "image": "assets/ramen/横浜家系らーめん侍 渋谷本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "家系"
+    ],
     "visits": 1,
     "area": "渋谷、神泉"
   },
@@ -2853,13 +3031,16 @@
     "id": 268,
     "name": "だしと小麦の可能性",
     "location": "📍 近鉄日本橋、日本橋、難波（南海）, 大阪府",
-    "type": "ラーメン",
+    "type": "塩",
     "date": "2024.04",
     "image": "assets/ramen/だしと小麦の可能性.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "近鉄日本橋、日本橋、難波（南海）"
   },
@@ -2867,13 +3048,16 @@
     "id": 269,
     "name": "ラーメン GINZA  TON BOX 銀座本店",
     "location": "📍 銀座、日比谷、有楽町, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2026.04",
     "image": "assets/ramen/ラーメン GINZA  TON BOX 銀座本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "銀座、日比谷、有楽町"
   },
@@ -2881,13 +3065,16 @@
     "id": 270,
     "name": "拉麺阿修羅",
     "location": "📍 京成船橋、船橋、大神宮下, 千葉県",
-    "type": "ラーメン",
+    "type": "担々麺",
     "date": "2023.02",
     "image": "assets/ramen/拉麺阿修羅.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "担々麺",
+      "その他"
+    ],
     "visits": 1,
     "area": "京成船橋、船橋、大神宮下"
   },
@@ -2895,13 +3082,16 @@
     "id": 271,
     "name": "担々麺 かんだ橋 本店",
     "location": "📍 神田、淡路町、小川町, 東京都",
-    "type": "ラーメン",
+    "type": "担々麺",
     "date": "2022.11",
     "image": "assets/ramen/担々麺 かんだ橋 本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "担々麺",
+      "冷やし"
+    ],
     "visits": 1,
     "area": "神田、淡路町、小川町"
   },
@@ -2909,13 +3099,17 @@
     "id": 272,
     "name": "ラーメン大戦争 神田店",
     "location": "📍 神田、新日本橋、三越前, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2026.02",
     "image": "assets/ramen/ラーメン大戦争 神田店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "冷やし",
+      "油そば/混ぜそば"
+    ],
     "visits": 5,
     "area": "神田、新日本橋、三越前"
   },
@@ -2973,13 +3167,17 @@
     "id": 132,
     "name": "メンドコロ キナリ",
     "location": "📍 東中野、落合, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.09",
     "image": "assets/ramen/メンドコロ キナリ.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "白湯"
+    ],
     "visits": 1,
     "area": "東中野、落合"
   },
@@ -2987,13 +3185,15 @@
     "id": 133,
     "name": "西永福の煮干箱",
     "location": "📍 西永福、永福町、浜田山, 東京都",
-    "type": "ラーメン",
+    "type": "煮干",
     "date": "2022.10",
     "image": "assets/ramen/西永福の煮干箱.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "煮干"
+    ],
     "visits": 1,
     "area": "西永福、永福町、浜田山"
   },
@@ -3001,13 +3201,17 @@
     "id": 142,
     "name": "麺屋鈴春",
     "location": "📍 本郷三丁目、水道橋、御茶ノ水, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.03",
     "image": "assets/ramen/麺屋鈴春.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "本郷三丁目、水道橋、御茶ノ水"
   },
@@ -3015,13 +3219,16 @@
     "id": 141,
     "name": "創作麺工房 鳴龍",
     "location": "📍 新大塚、大塚駅前、大塚, 東京都",
-    "type": "ラーメン",
+    "type": "塩",
     "date": "2021.08",
     "image": "assets/ramen/創作麺工房 鳴龍.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "塩",
+      "担々麺"
+    ],
     "visits": 1,
     "area": "新大塚、大塚駅前、大塚"
   },
@@ -3029,13 +3236,15 @@
     "id": 143,
     "name": "純手打ち だるま",
     "location": "📍 中野富士見町、中野新橋、新中野, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.01",
     "image": "assets/ramen/純手打ち だるま.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "中野富士見町、中野新橋、新中野"
   },
@@ -3043,13 +3252,16 @@
     "id": 149,
     "name": "自家製麺つけそば 九六",
     "location": "📍 和泉多摩川、登戸、狛江, 東京都",
-    "type": "ラーメン",
+    "type": "煮干",
     "date": "2022.07",
     "image": "assets/ramen/自家製麺つけそば 九六.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "煮干",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "和泉多摩川、登戸、狛江"
   },
@@ -3057,13 +3269,17 @@
     "id": 146,
     "name": "鶏そば  ムタヒロ 2号店",
     "location": "📍 国分寺, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "国分寺"
   },
@@ -3085,13 +3301,15 @@
     "id": 145,
     "name": "中華蕎麦 葛",
     "location": "📍 本町、西大橋、四ツ橋, 大阪府",
-    "type": "ラーメン",
+    "type": "白湯",
     "date": "2018.08",
     "image": "assets/ramen/中華蕎麦 葛.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "白湯"
+    ],
     "visits": 1,
     "area": "本町、西大橋、四ツ橋"
   },
@@ -3099,13 +3317,18 @@
     "id": 148,
     "name": "らーめん弥七",
     "location": "📍 中津（大阪メトロ）、中津（阪急）、中崎町, 大阪府",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2026.04",
     "image": "assets/ramen/らーめん弥七.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺",
+      "油そば/混ぜそば"
+    ],
     "visits": 1,
     "area": "中津（大阪メトロ）、中津（阪急）、中崎町"
   },
@@ -3113,13 +3336,18 @@
     "id": 275,
     "name": "らーめん七彩飯店",
     "location": "📍 京橋、東京、宝町, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2024.07",
     "image": "assets/ramen/らーめん七彩飯店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "煮干",
+      "冷やし"
+    ],
     "visits": 1,
     "area": "京橋、東京、宝町"
   },
@@ -3127,13 +3355,17 @@
     "id": 274,
     "name": "麺屋 彩音",
     "location": "📍 五反田、大崎広小路、不動前, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.10",
     "image": "assets/ramen/麺屋 彩音.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "煮干"
+    ],
     "visits": 2,
     "area": "五反田、大崎広小路、不動前"
   },
@@ -3141,13 +3373,15 @@
     "id": 140,
     "name": "銀座 八五",
     "location": "📍 新富町、東銀座、築地, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2023.06",
     "image": "assets/ramen/銀座 八五.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "新富町、東銀座、築地"
   },
@@ -3155,13 +3389,17 @@
     "id": 281,
     "name": "四川担々麺 ななつぼし 新橋店",
     "location": "📍 新橋、汐留、内幸町, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "担々麺",
+      "油そば/混ぜそば"
+    ],
     "visits": 1,
     "area": "新橋、汐留、内幸町"
   },
@@ -3169,13 +3407,16 @@
     "id": 282,
     "name": "キッチン きらく",
     "location": "📍 神保町、新御茶ノ水、竹橋, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.05",
     "image": "assets/ramen/キッチン きらく.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "神保町、新御茶ノ水、竹橋"
   },
@@ -3183,13 +3424,15 @@
     "id": 144,
     "name": "中華そば 麺や食堂 本店",
     "location": "📍 本厚木、厚木, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.06",
     "image": "assets/ramen/中華そば 麺や食堂 本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "本厚木、厚木"
   },
@@ -3197,13 +3440,15 @@
     "id": 276,
     "name": "手打ち あさま",
     "location": "📍 中目黒、代官山、祐天寺, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.03",
     "image": "assets/ramen/手打ち あさま.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "中目黒、代官山、祐天寺"
   },
@@ -3211,13 +3456,16 @@
     "id": 277,
     "name": "自家製麺ご藤",
     "location": "📍 大神宮下、京成船橋、船橋, 千葉県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2026.04",
     "image": "assets/ramen/自家製麺ご藤.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "大神宮下、京成船橋、船橋"
   },
@@ -3225,13 +3473,15 @@
     "id": 278,
     "name": "炭火焼濃厚中華そば 奥倫道",
     "location": "📍 大門、浜松町、芝公園, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.01",
     "image": "assets/ramen/炭火焼濃厚中華そば 奥倫道.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "大門、浜松町、芝公園"
   },
@@ -3239,13 +3489,15 @@
     "id": 279,
     "name": "かいざん 西船橋店",
     "location": "📍 西船橋、京成西船、東中山, 千葉県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2024.12",
     "image": "assets/ramen/かいざん 西船橋店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "西船橋、京成西船、東中山"
   },
@@ -3253,13 +3505,16 @@
     "id": 280,
     "name": "たいち 堺東町店",
     "location": "📍 長岡, 新潟県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2021.09",
     "image": "assets/ramen/たいち 堺東町店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "長岡"
   },
@@ -3267,13 +3522,15 @@
     "id": 150,
     "name": "寿々喜家 本店",
     "location": "📍 上星川, 神奈川県",
-    "type": "ラーメン",
+    "type": "家系",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "家系"
+    ],
     "visits": 1,
     "area": "上星川"
   },
@@ -3281,13 +3538,16 @@
     "id": 152,
     "name": "一番いちばん",
     "location": "📍 町田, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "町田"
   },
@@ -3295,13 +3555,17 @@
     "id": 151,
     "name": "自家製中華そば としおか",
     "location": "📍 早稲田（メトロ）、牛込柳町、神楽坂, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.04",
     "image": "assets/ramen/自家製中華そば としおか.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "早稲田（メトロ）、牛込柳町、神楽坂"
   },
@@ -3309,13 +3573,15 @@
     "id": 283,
     "name": "親鶏中華そば 綾川 本店",
     "location": "📍 恵比寿、代官山、広尾, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2021.05",
     "image": "assets/ramen/親鶏中華そば 綾川 本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "恵比寿、代官山、広尾"
   },
@@ -3323,13 +3589,16 @@
     "id": 285,
     "name": "自家製麺 伊藤 神田駅前店",
     "location": "📍 神田、岩本町、新日本橋, 東京都",
-    "type": "ラーメン",
+    "type": "煮干",
     "date": "2022.07",
     "image": "assets/ramen/自家製麺 伊藤 神田駅前店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "煮干",
+      "つけ麺"
+    ],
     "visits": 2,
     "area": "神田、岩本町、新日本橋"
   },
@@ -3337,13 +3606,15 @@
     "id": 286,
     "name": "炭火焼濃厚中華そば 海富道",
     "location": "📍 神田、淡路町、小川町, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2023.12",
     "image": "assets/ramen/炭火焼濃厚中華そば 海富道.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "神田、淡路町、小川町"
   },
@@ -3351,13 +3622,16 @@
     "id": 287,
     "name": "ラーメン 宮郎",
     "location": "📍 蒲田、蓮沼, 東京都",
-    "type": "ラーメン",
+    "type": "二郎系",
     "date": "2017.10",
     "image": "assets/ramen/ラーメン 宮郎.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "二郎系",
+      "油そば/混ぜそば"
+    ],
     "visits": 1,
     "area": "蒲田、蓮沼"
   },
@@ -3365,13 +3639,15 @@
     "id": 284,
     "name": "ちえちゃんラーメン",
     "location": "📍 神田、新日本橋、淡路町, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2023.07",
     "image": "assets/ramen/ちえちゃんラーメン.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "神田、新日本橋、淡路町"
   },
@@ -3379,13 +3655,16 @@
     "id": 289,
     "name": "博多らーめん ShinShin 天神本店",
     "location": "📍 天神、西鉄福岡（天神）、天神南, 福岡県",
-    "type": "ラーメン",
+    "type": "豚骨",
     "date": "2017.08",
     "image": "assets/ramen/博多らーめん ShinShin 天神本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "豚骨",
+      "その他"
+    ],
     "visits": 1,
     "area": "天神、西鉄福岡（天神）、天神南"
   },
@@ -3393,13 +3672,17 @@
     "id": 290,
     "name": "らーめん桃源",
     "location": "📍 新綱島、綱島, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2020.11",
     "image": "assets/ramen/らーめん桃源.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "味噌"
+    ],
     "visits": 1,
     "area": "新綱島、綱島"
   },
@@ -3407,13 +3690,16 @@
     "id": 291,
     "name": "龍鳳 大門横丁店",
     "location": "📍 函館駅前、松風町、函館, 北海道",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.10",
     "image": "assets/ramen/龍鳳 大門横丁店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "函館駅前、松風町、函館"
   },
@@ -3421,13 +3707,15 @@
     "id": 292,
     "name": "つぶ焼 かど屋",
     "location": "📍 釧路, 北海道",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2023.07",
     "image": "assets/ramen/つぶ焼 かど屋.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "釧路"
   },
@@ -3435,13 +3723,15 @@
     "id": 288,
     "name": "中華蕎麦 きよし",
     "location": "📍 京成船橋、船橋、東海神, 千葉県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.04",
     "image": "assets/ramen/中華蕎麦 きよし.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "京成船橋、船橋、東海神"
   },
@@ -3449,13 +3739,15 @@
     "id": 158,
     "name": "はやし",
     "location": "📍 渋谷、神泉, 東京都",
-    "type": "ラーメン",
+    "type": "MIX",
     "date": "2020.01",
     "image": "assets/ramen/はやし.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "MIX"
+    ],
     "visits": 1,
     "area": "渋谷、神泉"
   },
@@ -3463,13 +3755,15 @@
     "id": 159,
     "name": "麺屋ひょっとこ 交通会館店",
     "location": "📍 有楽町、銀座一丁目、銀座, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "有楽町、銀座一丁目、銀座"
   },
@@ -3477,13 +3771,15 @@
     "id": 160,
     "name": "青島食堂 秋葉原店",
     "location": "📍 岩本町、秋葉原、馬喰町, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2026.03",
     "image": "assets/ramen/青島食堂 秋葉原店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "岩本町、秋葉原、馬喰町"
   },
@@ -3491,13 +3787,16 @@
     "id": 153,
     "name": "キング製麺",
     "location": "📍 王子駅前、王子、飛鳥山, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2020.06",
     "image": "assets/ramen/キング製麺.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "王子駅前、王子、飛鳥山"
   },
@@ -3505,13 +3804,15 @@
     "id": 167,
     "name": "北京 川崎宮崎台店",
     "location": "📍 宮崎台、宮前平, 神奈川県",
-    "type": "ラーメン",
+    "type": "その他",
     "date": "2026.02",
     "image": "assets/ramen/北京 川崎宮崎台店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "その他"
+    ],
     "visits": 1,
     "area": "宮崎台、宮前平"
   },
@@ -3519,13 +3820,15 @@
     "id": 166,
     "name": "麺と肉 だいつる 鶴橋店",
     "location": "📍 鶴橋、玉造（ＪＲ）、桃谷, 大阪府",
-    "type": "ラーメン",
+    "type": "その他",
     "date": "2026.01",
     "image": "assets/ramen/麺と肉 だいつる 鶴橋店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "その他"
+    ],
     "visits": 1,
     "area": "鶴橋、玉造（ＪＲ）、桃谷"
   },
@@ -3533,13 +3836,16 @@
     "id": 165,
     "name": "Gion Duck Noodles",
     "location": "📍 祇園四条、三条京阪、東山, 京都府",
-    "type": "ラーメン",
+    "type": "白湯",
     "date": "2024.08",
     "image": "assets/ramen/Gion Duck Noodles.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "白湯",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "祇園四条、三条京阪、東山"
   },
@@ -3547,13 +3853,16 @@
     "id": 164,
     "name": "麺のようじ",
     "location": "📍 日本橋、近鉄日本橋、谷町九丁目, 大阪府",
-    "type": "ラーメン",
+    "type": "塩",
     "date": "2023.08",
     "image": "assets/ramen/麺のようじ.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "日本橋、近鉄日本橋、谷町九丁目"
   },
@@ -3561,13 +3870,15 @@
     "id": 163,
     "name": "無鉄砲 総本店",
     "location": "📍 木津、平城山、上狛, 京都府",
-    "type": "ラーメン",
+    "type": "豚骨",
     "date": "2012.03",
     "image": "assets/ramen/無鉄砲 総本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "豚骨"
+    ],
     "visits": 1,
     "area": "木津、平城山、上狛"
   },
@@ -3575,13 +3886,17 @@
     "id": 162,
     "name": "麺屋 ぬまた",
     "location": "📍 京急鶴見、鶴見、国道, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.08",
     "image": "assets/ramen/麺屋 ぬまた.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "担々麺"
+    ],
     "visits": 1,
     "area": "京急鶴見、鶴見、国道"
   },
@@ -3589,13 +3904,15 @@
     "id": 161,
     "name": "時屋",
     "location": "📍 西中島南方、南方、新大阪, 大阪府",
-    "type": "ラーメン",
+    "type": "つけ麺",
     "date": "2022.03",
     "image": "assets/ramen/時屋.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "西中島南方、南方、新大阪"
   },
@@ -3603,13 +3920,15 @@
     "id": 157,
     "name": "貝ガラ屋",
     "location": "📍 淵野辺, 神奈川県",
-    "type": "ラーメン",
+    "type": "白湯",
     "date": "2018.07",
     "image": "assets/ramen/貝ガラ屋.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "白湯"
+    ],
     "visits": 1,
     "area": "淵野辺"
   },
@@ -3617,13 +3936,16 @@
     "id": 154,
     "name": "麺創庵 砂田",
     "location": "📍 庚申塚、新庚申塚、巣鴨新田, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2026.02",
     "image": "assets/ramen/麺創庵 砂田.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "煮干"
+    ],
     "visits": 1,
     "area": "庚申塚、新庚申塚、巣鴨新田"
   },
@@ -3631,13 +3953,16 @@
     "id": 155,
     "name": "支那そばや 本店",
     "location": "📍 戸塚, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2021.09",
     "image": "assets/ramen/支那そばや 本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "戸塚"
   },
@@ -3645,13 +3970,15 @@
     "id": 156,
     "name": "there is ramen",
     "location": "📍 荻窪, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2023.05",
     "image": "assets/ramen/there is ramen.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "荻窪"
   },
@@ -3659,13 +3986,16 @@
     "id": 168,
     "name": "神名備",
     "location": "📍 西日暮里、千駄木、田端, 東京都",
-    "type": "ラーメン",
+    "type": "塩",
     "date": "2023.01",
     "image": "assets/ramen/神名備.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "塩",
+      "その他"
+    ],
     "visits": 1,
     "area": "西日暮里、千駄木、田端"
   },
@@ -3673,13 +4003,16 @@
     "id": 293,
     "name": "松戸富田麺絆",
     "location": "📍 東京、二重橋前、京橋, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "東京、二重橋前、京橋"
   },
@@ -3687,13 +4020,17 @@
     "id": 295,
     "name": "馳走麺 狸穴",
     "location": "📍 池袋、東池袋、北池袋, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2023.07",
     "image": "assets/ramen/馳走麺 狸穴.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "つけ麺",
+      "油そば/混ぜそば"
+    ],
     "visits": 1,
     "area": "池袋、東池袋、北池袋"
   },
@@ -3701,13 +4038,15 @@
     "id": 294,
     "name": "中華そば ふくみみ",
     "location": "📍 分倍河原、北府中、西府, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2021.02",
     "image": "assets/ramen/中華そば ふくみみ.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "分倍河原、北府中、西府"
   },
@@ -3715,13 +4054,16 @@
     "id": 169,
     "name": "かしわぎ",
     "location": "📍 東中野、落合、中野坂上, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2023.01",
     "image": "assets/ramen/かしわぎ.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "東中野、落合、中野坂上"
   },
@@ -3729,13 +4071,16 @@
     "id": 170,
     "name": "つけ麺 五ノ神製作所",
     "location": "📍 新宿三丁目、新宿、代々木, 東京都",
-    "type": "ラーメン",
+    "type": "つけ麺",
     "date": "2025.11",
     "image": "assets/ramen/つけ麺 五ノ神製作所.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "つけ麺",
+      "その他"
+    ],
     "visits": 1,
     "area": "新宿三丁目、新宿、代々木"
   },
@@ -3743,13 +4088,17 @@
     "id": 171,
     "name": "Sagamihara 欅",
     "location": "📍 小田急相模原, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2021.05",
     "image": "assets/ramen/Sagamihara 欅.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "小田急相模原"
   },
@@ -3757,13 +4106,16 @@
     "id": 172,
     "name": "むぎとオリーブ 銀座本店",
     "location": "📍 東銀座、銀座、築地市場, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.03",
     "image": "assets/ramen/むぎとオリーブ 銀座本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "東銀座、銀座、築地市場"
   },
@@ -3771,13 +4123,15 @@
     "id": 173,
     "name": "豚星。",
     "location": "📍 元住吉、日吉, 神奈川県",
-    "type": "ラーメン",
+    "type": "煮干",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "煮干"
+    ],
     "visits": 1,
     "area": "元住吉、日吉"
   },
@@ -3785,13 +4139,17 @@
     "id": 174,
     "name": "総大醤",
     "location": "📍 天神橋筋六丁目、中崎町、天満, 大阪府",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.08",
     "image": "assets/ramen/総大醤.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "天神橋筋六丁目、中崎町、天満"
   },
@@ -3799,13 +4157,17 @@
     "id": 175,
     "name": "煮干しらーめん 田中にぼる",
     "location": "📍 武蔵新城, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2021.07",
     "image": "assets/ramen/煮干しらーめん 田中にぼる.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "煮干",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "武蔵新城"
   },
@@ -3813,13 +4175,17 @@
     "id": 176,
     "name": "ヌードルズキッチン ガナーズ",
     "location": "📍 新丸子、武蔵小杉、向河原, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.12",
     "image": "assets/ramen/ヌードルズキッチン ガナーズ.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "白湯"
+    ],
     "visits": 1,
     "area": "新丸子、武蔵小杉、向河原"
   },
@@ -3827,13 +4193,16 @@
     "id": 297,
     "name": "ラーメン 鷹の目 蒲田店",
     "location": "📍 蒲田、蓮沼、京急蒲田, 東京都",
-    "type": "ラーメン",
+    "type": "二郎系",
     "date": "2023.12",
     "image": "assets/ramen/ラーメン 鷹の目 蒲田店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "二郎系",
+      "冷やし"
+    ],
     "visits": 1,
     "area": "蒲田、蓮沼、京急蒲田"
   },
@@ -3841,13 +4210,16 @@
     "id": 298,
     "name": "味の札幌 大西",
     "location": "📍 青森, 青森県",
-    "type": "ラーメン",
+    "type": "味噌",
     "date": "2022.10",
     "image": "assets/ramen/味の札幌 大西.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "味噌",
+      "油そば/混ぜそば"
+    ],
     "visits": 1,
     "area": "青森"
   },
@@ -3855,13 +4227,17 @@
     "id": 299,
     "name": "らーめん 四恩",
     "location": "📍 近鉄八尾, 大阪府",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.02",
     "image": "assets/ramen/らーめん 四恩.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "白湯"
+    ],
     "visits": 1,
     "area": "近鉄八尾"
   },
@@ -3869,13 +4245,17 @@
     "id": 300,
     "name": "最北端",
     "location": "📍 稚内市その他, 北海道",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "味噌"
+    ],
     "visits": 1,
     "area": "稚内市その他"
   },
@@ -3883,13 +4263,16 @@
     "id": 301,
     "name": "蒙古タンメン中本 横浜店",
     "location": "📍 横浜、平沼橋、新高島, 神奈川県",
-    "type": "ラーメン",
+    "type": "味噌",
     "date": "2020.02",
     "image": "assets/ramen/蒙古タンメン中本 横浜店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "味噌",
+      "その他"
+    ],
     "visits": 1,
     "area": "横浜、平沼橋、新高島"
   },
@@ -3897,13 +4280,17 @@
     "id": 296,
     "name": "札幌 六坊",
     "location": "📍 西早稲田、面影橋、高田馬場, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2026.05",
     "image": "assets/ramen/札幌 六坊.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "味噌"
+    ],
     "visits": 1,
     "area": "西早稲田、面影橋、高田馬場"
   },
@@ -3911,13 +4298,15 @@
     "id": 312,
     "name": "横浜家系ラーメン すずき家 子安本店",
     "location": "📍 子安、神奈川新町、新子安, 神奈川県",
-    "type": "ラーメン",
+    "type": "家系",
     "date": "2020.11",
     "image": "assets/ramen/横浜家系ラーメン すずき家 子安本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "家系"
+    ],
     "visits": 1,
     "area": "子安、神奈川新町、新子安"
   },
@@ -3925,13 +4314,16 @@
     "id": 313,
     "name": "アスリート中華ダイニングYI-CHANG",
     "location": "📍 新横浜, 神奈川県",
-    "type": "ラーメン",
+    "type": "担々麺",
     "date": "2018.03",
     "image": "assets/ramen/アスリート中華ダイニングYI-CHANG.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "担々麺",
+      "油そば/混ぜそば"
+    ],
     "visits": 1,
     "area": "新横浜"
   },
@@ -3939,13 +4331,16 @@
     "id": 306,
     "name": "松戸富田製麺 ららぽーとTOKYO-BAY店",
     "location": "📍 南船橋、船橋競馬場、大神宮下, 千葉県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2014.07",
     "image": "assets/ramen/松戸富田製麺 ららぽーとTOKYO-BAY店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "南船橋、船橋競馬場、大神宮下"
   },
@@ -3953,13 +4348,15 @@
     "id": 307,
     "name": "尾道ラーメン 一丁",
     "location": "📍 福山, 広島県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2016.04",
     "image": "assets/ramen/尾道ラーメン 一丁.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "福山"
   },
@@ -3967,13 +4364,16 @@
     "id": 308,
     "name": "らぁめん冠尾",
     "location": "📍 恵比寿、代官山、中目黒, 東京都",
-    "type": "ラーメン",
+    "type": "白湯",
     "date": "2021.10",
     "image": "assets/ramen/らぁめん冠尾.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "白湯",
+      "担々麺"
+    ],
     "visits": 1,
     "area": "恵比寿、代官山、中目黒"
   },
@@ -3981,13 +4381,15 @@
     "id": 309,
     "name": "横浜ラーメン 渡来武 総本店",
     "location": "📍 武蔵小杉、新丸子、向河原, 神奈川県",
-    "type": "ラーメン",
+    "type": "家系",
     "date": "2021.03",
     "image": "assets/ramen/横浜ラーメン 渡来武 総本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "家系"
+    ],
     "visits": 3,
     "area": "武蔵小杉、新丸子、向河原"
   },
@@ -3995,13 +4397,16 @@
     "id": 310,
     "name": "らーめん中々",
     "location": "📍 白楽、東白楽, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2018.04",
     "image": "assets/ramen/らーめん中々.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "白楽、東白楽"
   },
@@ -4009,13 +4414,15 @@
     "id": 311,
     "name": "武蔵家 菊名店",
     "location": "📍 菊名, 神奈川県",
-    "type": "ラーメン",
+    "type": "家系",
     "date": "2025.05",
     "image": "assets/ramen/武蔵家 菊名店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "家系"
+    ],
     "visits": 1,
     "area": "菊名"
   },
@@ -4023,13 +4430,17 @@
     "id": 178,
     "name": "中華そば 和渦 TOKYO",
     "location": "📍 北品川、新馬場、品川, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2020.02",
     "image": "assets/ramen/中華そば 和渦 TOKYO.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "北品川、新馬場、品川"
   },
@@ -4037,13 +4448,15 @@
     "id": 185,
     "name": "松の樹",
     "location": "📍 京急川崎、川崎、港町, 神奈川県",
-    "type": "ラーメン",
+    "type": "担々麺",
     "date": "2022.05",
     "image": "assets/ramen/松の樹.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "担々麺"
+    ],
     "visits": 1,
     "area": "京急川崎、川崎、港町"
   },
@@ -4051,13 +4464,15 @@
     "id": 305,
     "name": "本家 第一旭 新宿店",
     "location": "📍 新宿御苑前、新宿三丁目、四谷三丁目, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2023.04",
     "image": "assets/ramen/本家 第一旭 新宿店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 1,
     "area": "新宿御苑前、新宿三丁目、四谷三丁目"
   },
@@ -4065,13 +4480,16 @@
     "id": 304,
     "name": "六厘舎 大崎店",
     "location": "📍 大崎、大崎広小路、下神明, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2014.09",
     "image": "assets/ramen/六厘舎 大崎店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "つけ麺"
+    ],
     "visits": 2,
     "area": "大崎、大崎広小路、下神明"
   },
@@ -4079,13 +4497,17 @@
     "id": 182,
     "name": "麺家 獅子丸",
     "location": "📍 亀島、名古屋、名鉄名古屋, 愛知県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.05",
     "image": "assets/ramen/麺家 獅子丸.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "白湯",
+      "担々麺"
+    ],
     "visits": 1,
     "area": "亀島、名古屋、名鉄名古屋"
   },
@@ -4093,13 +4515,16 @@
     "id": 181,
     "name": "くり山",
     "location": "📍 白楽、東白楽, 神奈川県",
-    "type": "ラーメン",
+    "type": "煮干",
     "date": "2018.07",
     "image": "assets/ramen/くり山.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "煮干",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "白楽、東白楽"
   },
@@ -4107,13 +4532,16 @@
     "id": 180,
     "name": "らぁめん 葉月",
     "location": "📍 雪が谷大塚、御嶽山、多摩川, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2022.09",
     "image": "assets/ramen/らぁめん 葉月.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "その他"
+    ],
     "visits": 1,
     "area": "雪が谷大塚、御嶽山、多摩川"
   },
@@ -4121,13 +4549,15 @@
     "id": 183,
     "name": "ラーメン家 みつ葉",
     "location": "📍 富雄, 奈良県",
-    "type": "ラーメン",
+    "type": "白湯",
     "date": "2019.05",
     "image": "assets/ramen/ラーメン家 みつ葉.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "白湯"
+    ],
     "visits": 1,
     "area": "富雄"
   },
@@ -4135,13 +4565,15 @@
     "id": 184,
     "name": "ろく月",
     "location": "📍 浅草橋、馬喰町、蔵前, 東京都",
-    "type": "ラーメン",
+    "type": "白湯",
     "date": "2019.01",
     "image": "assets/ramen/ろく月.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "白湯"
+    ],
     "visits": 1,
     "area": "浅草橋、馬喰町、蔵前"
   },
@@ -4149,13 +4581,17 @@
     "id": 177,
     "name": "ラーメン屋 トイ・ボックス",
     "location": "📍 三ノ輪橋、三ノ輪、荒川一中前, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2017.12",
     "image": "assets/ramen/ラーメン屋 トイ・ボックス.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "味噌"
+    ],
     "visits": 1,
     "area": "三ノ輪橋、三ノ輪、荒川一中前"
   },
@@ -4163,13 +4599,16 @@
     "id": 314,
     "name": "東京鴨中華そば店",
     "location": "📍 神田、新日本橋、淡路町, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2026.01",
     "image": "assets/ramen/東京鴨中華そば店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "白湯"
+    ],
     "visits": 2,
     "area": "神田、新日本橋、淡路町"
   },
@@ -4177,13 +4616,15 @@
     "id": 315,
     "name": "横浜らーめん 壱八家 スカイビル店",
     "location": "📍 横浜、新高島、高島町, 神奈川県",
-    "type": "ラーメン",
+    "type": "家系",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "家系"
+    ],
     "visits": 1,
     "area": "横浜、新高島、高島町"
   },
@@ -4191,13 +4632,15 @@
     "id": 303,
     "name": "釜玉中華そば ナポレオン軒",
     "location": "📍 都立大学, 東京都",
-    "type": "ラーメン",
+    "type": "油そば/混ぜそば",
     "date": "2022.11",
     "image": "assets/ramen/釜玉中華そば ナポレオン軒.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "油そば/混ぜそば"
+    ],
     "visits": 1,
     "area": "都立大学"
   },
@@ -4205,13 +4648,16 @@
     "id": 302,
     "name": "大井町 立食い中華蕎麦 いりこ屋",
     "location": "📍 大井町、鮫洲、青物横丁, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2025.09",
     "image": "assets/ramen/大井町 立食い中華蕎麦 いりこ屋.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "大井町、鮫洲、青物横丁"
   },
@@ -4219,13 +4665,18 @@
     "id": 179,
     "name": "ラーメン 健やか",
     "location": "📍 三鷹, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "煮干",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "三鷹"
   },
@@ -4233,13 +4684,16 @@
     "id": 186,
     "name": "中華蕎麦にし乃",
     "location": "📍 本郷三丁目、水道橋、湯島, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2019.04",
     "image": "assets/ramen/中華蕎麦にし乃.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "油そば/混ぜそば"
+    ],
     "visits": 2,
     "area": "本郷三丁目、水道橋、湯島"
   },
@@ -4303,13 +4757,16 @@
     "id": 190,
     "name": "麺や でこ",
     "location": "📍 新丸子、武蔵小杉、向河原, 神奈川県",
-    "type": "ラーメン",
+    "type": "煮干",
     "date": "2017.12",
     "image": "assets/ramen/麺や でこ.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "煮干",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "新丸子、武蔵小杉、向河原"
   },
@@ -4317,13 +4774,17 @@
     "id": 189,
     "name": "兎に角 松戸本店",
     "location": "📍 松戸, 千葉県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "つけ麺",
+      "油そば/混ぜそば"
+    ],
     "visits": 1,
     "area": "松戸"
   },
@@ -4331,13 +4792,17 @@
     "id": 188,
     "name": "竹末東京Premium",
     "location": "📍 押上、とうきょうスカイツリー、小村井, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2016.10",
     "image": "assets/ramen/竹末東京Premium.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "押上、とうきょうスカイツリー、小村井"
   },
@@ -4345,13 +4810,16 @@
     "id": 187,
     "name": "らーめん改",
     "location": "📍 蔵前、田原町、新御徒町, 東京都",
-    "type": "ラーメン",
+    "type": "塩",
     "date": "2019.06",
     "image": "assets/ramen/らーめん改.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "塩",
+      "煮干"
+    ],
     "visits": 1,
     "area": "蔵前、田原町、新御徒町"
   },
@@ -4359,13 +4827,16 @@
     "id": 194,
     "name": "群青",
     "location": "📍 天神橋筋六丁目、天満、扇町, 大阪府",
-    "type": "ラーメン",
+    "type": "つけ麺",
     "date": "2023.05",
     "image": "assets/ramen/群青.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "つけ麺",
+      "その他"
+    ],
     "visits": 1,
     "area": "天神橋筋六丁目、天満、扇町"
   },
@@ -4373,13 +4844,17 @@
     "id": 195,
     "name": "麺創 なな家",
     "location": "📍 上挙母、新上挙母, 愛知県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2019.09",
     "image": "assets/ramen/麺創 なな家.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "上挙母、新上挙母"
   },
@@ -4387,13 +4862,17 @@
     "id": 192,
     "name": "麺や 福はら",
     "location": "📍 今里（近鉄）、小路（大阪メトロ）、新深江, 大阪府",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2018.08",
     "image": "assets/ramen/麺や 福はら.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "油そば/混ぜそば"
+    ],
     "visits": 1,
     "area": "今里（近鉄）、小路（大阪メトロ）、新深江"
   },
@@ -4401,13 +4880,16 @@
     "id": 191,
     "name": "KITCHEN TAKANO",
     "location": "📍 大口、子安、新子安, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2021.12",
     "image": "assets/ramen/KITCHEN TAKANO.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "大口、子安、新子安"
   },
@@ -4415,13 +4897,16 @@
     "id": 193,
     "name": "麺や而今 大東本店",
     "location": "📍 鴻池新田, 大阪府",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2020.12",
     "image": "assets/ramen/麺や而今 大東本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "鴻池新田"
   },
@@ -4429,13 +4914,16 @@
     "id": 198,
     "name": "極汁美麺 umami",
     "location": "📍 河内小阪、河内永和、ＪＲ河内永和, 大阪府",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2019.08",
     "image": "assets/ramen/極汁美麺 umami.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "河内小阪、河内永和、ＪＲ河内永和"
   },
@@ -4443,13 +4931,17 @@
     "id": 196,
     "name": "櫻井中華そば店",
     "location": "📍 保土ケ谷, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2020.06",
     "image": "assets/ramen/櫻井中華そば店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "保土ケ谷"
   },
@@ -4485,13 +4977,15 @@
     "id": 197,
     "name": "麺屋 極鶏 一乗寺本店",
     "location": "📍 一乗寺、修学院、松ケ崎, 京都府",
-    "type": "ラーメン",
+    "type": "白湯",
     "date": "2012.12",
     "image": "assets/ramen/麺屋 極鶏 一乗寺本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "白湯"
+    ],
     "visits": 1,
     "area": "一乗寺、修学院、松ケ崎"
   },
@@ -4555,13 +5049,15 @@
     "id": 200,
     "name": "らーめん いのうえ",
     "location": "📍 尻手, 神奈川県",
-    "type": "ラーメン",
+    "type": "煮干",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "煮干"
+    ],
     "visits": 1,
     "area": "尻手"
   },
@@ -4569,13 +5065,16 @@
     "id": 199,
     "name": "柴崎亭 つつじヶ丘本店",
     "location": "📍 つつじケ丘、柴崎, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩"
+    ],
     "visits": 1,
     "area": "つつじケ丘、柴崎"
   },
@@ -4583,13 +5082,17 @@
     "id": 202,
     "name": "なにわ 麺次郎",
     "location": "📍 大阪難波、なんば（大阪メトロ）、ＪＲ難波, 大阪府",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2024.12",
     "image": "assets/ramen/なにわ 麺次郎.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "大阪難波、なんば（大阪メトロ）、ＪＲ難波"
   },
@@ -4597,13 +5100,17 @@
     "id": 201,
     "name": "ラーメン星印",
     "location": "📍 反町、神奈川、東神奈川, 神奈川県",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2019.01",
     "image": "assets/ramen/ラーメン星印.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "その他"
+    ],
     "visits": 1,
     "area": "反町、神奈川、東神奈川"
   },
@@ -4611,13 +5118,18 @@
     "id": 203,
     "name": "麺屋彩々 昭和町本店",
     "location": "📍 昭和町、文の里、松虫, 大阪府",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "",
     "image": "",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油",
+      "塩",
+      "味噌",
+      "つけ麺"
+    ],
     "visits": 1,
     "area": "昭和町、文の里、松虫"
   },
@@ -4947,13 +5459,15 @@
     "id": 216,
     "name": "煮干鰮らーめん 圓 八王子本店",
     "location": "📍 京王八王子、八王子, 東京都",
-    "type": "ラーメン",
+    "type": "醤油",
     "date": "2020.02",
     "image": "assets/ramen/煮干鰮らーめん 圓 八王子本店.jpg",
     "featured": false,
     "favorite": false,
     "note": "nan",
-    "tags": [],
+    "tags": [
+      "醤油"
+    ],
     "visits": 3,
     "area": "京王八王子、八王子"
   }
