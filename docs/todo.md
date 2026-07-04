@@ -20,3 +20,8 @@
 
 - [x] `CLAUDE.md` の `ramen.json` 記載を `ramen-data.json` に修正 ✅
 - [x] `ramen-data.json` に実データを追加 ✅
+
+## Claude Code 環境整備（2026-07-02）
+
+- [x] `docs/CLAUDE.md` をプロジェクトルート `CLAUDE.md` に移動（docs内では自動ロードされないため）✅
+- [x] `@import` 形式を撤去し、必要時に読む参照リストに変更 ✅

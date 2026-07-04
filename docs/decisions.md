@@ -95,3 +95,4 @@ leaf-ecology/
 | 2026-06-15 | 画像ファイル配置完了・`ramen-data.json` に実データ追加完了 |
 | 2026-06-15 | SP: 激推しカード幅崩れ修正（`fav-card` に `min-width:0; overflow:hidden` 追加、モバイルで余白縮小・`fav-loc` 省略対応） |
 | 2026-06-15 | ramen.html に OGP・Twitter Card メタタグを追加（画像: `assets/images/ogp_ramen.png`） |
+| 2026-07-02 | `docs/CLAUDE.md` をプロジェクトルートに移動（docs内では自動ロードされなかったため）。`@import` を撤去し参照リスト形式に変更 |
