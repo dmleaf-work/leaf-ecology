@@ -39,7 +39,9 @@ ramen-data.json を使用
 
 ## 参照資料
 
-@docs/project-overview.md
-@docs/architecture.md
-@docs/decisions.md
-@docs/todo.md
+詳細は必要に応じて以下を読むこと（常時読み込みはしない）。
+
+- docs/project-overview.md
+- docs/architecture.md
+- docs/decisions.md
+- docs/todo.md
