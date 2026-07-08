@@ -3,121 +3,176 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Leaf Ecology — Ramen. Poker. Race.</title>
-  <meta name="description" content="ラーメン、ポーカー、競馬　趣味に捧げた人の記録">
+  <title>Leaf Ecology｜深夜の裏路地</title>
+  <meta name="description" content="ラーメン、ポーカー、競馬。深夜の裏路地に隠れた、趣味だけの部屋「Leaf Ecology」">
+
+  <!-- OGP -->
+  <meta property="og:type"        content="website">
+  <meta property="og:site_name"   content="Leaf Ecology">
+  <meta property="og:title"       content="Leaf Ecology｜深夜の裏路地">
+  <meta property="og:description" content="ラーメン、ポーカー、競馬。深夜の裏路地に隠れた、趣味だけの部屋">
+  <meta property="og:url"         content="https://leaf-ecology.com/">
+  <meta property="og:image"       content="https://leaf-ecology.com/assets/images/ogp_home.png">
+  <meta property="og:locale"      content="ja_JP">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="Leaf Ecology｜深夜の裏路地">
+  <meta name="twitter:description" content="ラーメン、ポーカー、競馬。深夜の裏路地に隠れた、趣味だけの部屋">
+  <meta name="twitter:image"       content="https://leaf-ecology.com/assets/images/ogp_home.png">
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Noto+Sans+JP:wght@400;700;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Noto+Sans+JP:wght@400;500;700;900&family=Marcellus&family=Shippori+Mincho:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 
   <!-- スタイルシート -->
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="index.css">
 </head>
 <body>
 
-<!-- ── NAVIGATION ── -->
-<nav>
+<!-- nav の濃淡切り替え用センチナル -->
+<div id="scroll-sentinel" aria-hidden="true"></div>
+
+<!-- ── MASTHEAD NAV ── -->
+<nav id="masthead">
   <a href="#" class="nav-logo">
     <div class="nav-logo-icon">🍃</div>
     <span>Leaf Ecology</span>
+    <span class="nav-badge">Members Only</span>
   </a>
   <ul class="nav-links" id="nav-links">
-    <li><a href="#about">About</a></li>
-    <li><a href="ramen.html">Ramen</a></li>
-    <li><a href="#" style="pointer-events:none; opacity:0.35; cursor:default;">Poker</a></li>
-    <li><a href="#contact" class="nav-cta">Contact ✦</a></li>
+    <li><a href="#rooms">Hidden Gem</a></li>
+    <li><a href="#owner">Graffiti</a></li>
+    <li><a href="ramen.html" class="nav-cta">Ramen →</a></li>
   </ul>
-  <button class="nav-hamburger" id="nav-hamburger" aria-label="メニュー">
+  <button class="nav-hamburger" id="nav-hamburger" aria-label="メニュー" aria-expanded="false">
     <span></span><span></span><span></span>
   </button>
 </nav>
 
-<!-- ── HERO ── -->
-<section class="hero" id="home">
-
-  <!-- 左：テキスト -->
-  <div class="hero-left">
-    <h1 class="hero-headline">
-      <strong>RAMEN</strong><span class="dot dot-red">●</span><br>
-      <strong>POKER</strong><span class="dot dot-yellow">●</span><br>
-      <strong>RACE</strong><span class="dot dot-green">●</span>
-    </h1>
-
-    <p class="hero-sub">ラーメン、ポーカー、競馬　趣味に捧げた人の記録</p>
-
-    <div style="flex:1;"></div>
+<!-- ── HERO : 路地の入り口 ── -->
+<header class="hero" id="home">
+  <div class="hero-bg" aria-hidden="true">
+    <div class="hero-bg-fallback"></div>
+    <img src="assets/images/alley/hero-alley.jpg" alt="" class="hero-bg-img"
+      onerror="this.remove()">
+    <div class="hero-scrim"></div>
   </div>
 
-  <!-- 右：イラスト画像 -->
-  <div class="hero-right" aria-hidden="true">
-    <div class="hero-illustration">
+  <div class="hero-content">
+    <h1 class="hero-title reveal">Leaf Ecology</h1>
+    <p class="hero-tagline reveal">夜の路地を抜けた先、灯る三軒の隠れ家。</p>
+    <a href="#rooms" class="hero-cta reveal">路地に入る <span aria-hidden="true">→</span></a>
+  </div>
+</header>
 
-      <!-- メインビジュアル（馬・競馬・チップ一体） -->
-      <img
-        src="assets/images/horse.png"
-        class="hi-horse"
-        alt="">
+<!-- ── THE ROOMS : 隠れ家 ── -->
+<section class="rooms" id="rooms">
+  <div class="section-head reveal">
+    <span class="section-label">Hidden Gem</span>
+    <h2 class="section-title">隠れ家</h2>
+  </div>
+
+  <div class="room-grid">
+
+    <!-- RAMEN — 開放中 -->
+    <a href="ramen.html" class="room-door room-ramen room-open reveal">
+      <div class="room-door-media" aria-hidden="true">
+        <div class="room-door-fallback"></div>
+        <img class="room-door-img" src="assets/images/alley/door-ramen.jpg" alt=""
+          onerror="this.remove()">
+        <div class="room-door-scrim"></div>
+        <!-- 店先から立ちのぼる湯気 -->
+        <div class="steam"><i></i><i></i><i></i></div>
+        <!-- 軒先の提灯(素材未着時は onerror で消える) -->
+        <img src="assets/images/alley/lantern.png" alt=""
+          class="door-lantern lantern-sway" onerror="this.remove()">
+      </div>
+      <div class="room-door-content">
+        <span class="room-status status-open"><i class="led" aria-hidden="true"></i>Open</span>
+        <div class="room-door-heading">
+          <span class="room-code neon-sign">RAMEN</span>
+          <span class="room-sub">ラーメン記録</span>
+        </div>
+        <p class="room-desc">暖簾の向こう、一杯ごとの記録帳。</p>
+        <span class="room-cta">入る <span aria-hidden="true">→</span></span>
+      </div>
+    </a>
+
+    <div class="room-stack">
+
+      <!-- POKER — 準備中 -->
+      <div class="room-door room-poker room-locked reveal"
+        role="button" aria-disabled="true" tabindex="0"
+        aria-label="ポーカーの部屋(準備中)">
+        <div class="room-door-media" aria-hidden="true">
+          <div class="room-door-fallback"></div>
+          <img class="room-door-img" src="assets/images/alley/door-poker.jpg" alt=""
+            onerror="this.remove()">
+          <div class="room-door-scrim"></div>
+        </div>
+        <div class="room-door-content">
+          <span class="room-status status-locked">
+            <svg viewBox="0 0 24 24" width="12" height="12" aria-hidden="true"><path fill="currentColor" d="M12 4a4 4 0 0 1 4 4v2h1a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h1V8a4 4 0 0 1 4-4zm0 2a2 2 0 0 0-2 2v2h4V8a2 2 0 0 0-2-2zm0 7a1.6 1.6 0 0 0-.8 3l-.5 2.2h2.6L12.8 16a1.6 1.6 0 0 0-.8-3z"/></svg>
+            Locked
+          </span>
+          <div class="room-door-heading">
+            <span class="room-code">POKER</span>
+            <span class="room-sub">ポーカー</span>
+          </div>
+          <p class="room-desc">戦績とハンドの研究室。鍵はまだ閉じたまま。</p>
+        </div>
+      </div>
+
+      <!-- RACE — 準備中 -->
+      <div class="room-door room-race room-locked reveal"
+        role="button" aria-disabled="true" tabindex="0"
+        aria-label="競馬の部屋(準備中)">
+        <div class="room-door-media" aria-hidden="true">
+          <div class="room-door-fallback"></div>
+          <img class="room-door-img" src="assets/images/alley/door-race.jpg" alt=""
+            onerror="this.remove()">
+          <div class="room-door-scrim"></div>
+        </div>
+        <div class="room-door-content">
+          <span class="room-status status-locked">
+            <svg viewBox="0 0 24 24" width="12" height="12" aria-hidden="true"><path fill="currentColor" d="M12 4a4 4 0 0 1 4 4v2h1a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h1V8a4 4 0 0 1 4-4zm0 2a2 2 0 0 0-2 2v2h4V8a2 2 0 0 0-2-2zm0 7a1.6 1.6 0 0 0-.8 3l-.5 2.2h2.6L12.8 16a1.6 1.6 0 0 0-.8-3z"/></svg>
+            Locked
+          </span>
+          <div class="room-door-heading">
+            <span class="room-code">RACE</span>
+            <span class="room-sub">競馬あれこれ</span>
+          </div>
+          <p class="room-desc">血統と馬場の記録。開くのはもう少し先。</p>
+        </div>
+      </div>
 
     </div>
   </div>
-
-  <!-- ── フローティングクイックアクセスバー ── -->
-  <div class="hero-bar-wrap">
-    <div class="hero-bar">
-
-      <!-- ラーメン記録 — アクティブ -->
-      <a href="ramen.html" class="hbar-item">
-        <div class="hbar-icon hbi-ramen">
-          <img
-            src="assets/images/icons.png"
-            class="hbar-img-icon"
-            style="object-position: 17% 50%;"
-            alt="ramen">
-        </div>
-        <div class="hbar-text">
-          <span class="hbar-title">ラーメン記録</span>
-          <span class="hbar-label">Ramen Notes</span>
-        </div>
-        <div class="hbar-arrow">→</div>
-      </a>
-
-      <!-- ポーカー — 開発中 -->
-      <div class="hbar-item hbar-disabled">
-        <div class="hbar-icon hbi-poker">
-          <img
-            src="assets/images/icons.png"
-            class="hbar-img-icon"
-            style="object-position: 50% 50%;"
-            alt="poker">
-        </div>
-        <div class="hbar-text">
-          <span class="hbar-title">ポーカー</span>
-          <span class="hbar-label">開発中 · Coming Soon</span>
-        </div>
-        <div class="hbar-coming">準備中</div>
-      </div>
-
-      <!-- 競馬あれこれ — 開発中 -->
-      <div class="hbar-item hbar-disabled">
-        <div class="hbar-icon hbi-race">
-          <img
-            src="assets/images/icons.png"
-            class="hbar-img-icon"
-            style="object-position: 83% 50%;"
-            alt="race">
-        </div>
-        <div class="hbar-text">
-          <span class="hbar-title">競馬あれこれ</span>
-          <span class="hbar-label">開発中 · Coming Soon</span>
-        </div>
-        <div class="hbar-coming">準備中</div>
-      </div>
-
-    </div>
-  </div>
-
 </section>
+
+<!-- ── OWNER : 店主の卓 ── -->
+<section class="owner" id="owner">
+  <div class="owner-inner reveal">
+    <p class="owner-quote">一杯、一手、一鞍。</p>
+    <p class="owner-body">
+      趣味は消費ではなく、記録に値する営みだと思っている。<br>
+      ここは、そのすべてを灯しておくための路地裏の部屋。
+    </p>
+    <div class="owner-rule" aria-hidden="true"></div>
+  </div>
+</section>
+
+<!-- ── FOOTER ── -->
+<footer class="site-foot">
+  <div class="foot-brand">
+    <span class="foot-logo">🍃 Leaf Ecology</span>
+    <span class="foot-est">Est. 2026</span>
+  </div>
+  <span class="foot-note">Private Archive · All Rights Reserved</span>
+</footer>
 
 <!-- JavaScript -->
 <script src="script.js"></script>

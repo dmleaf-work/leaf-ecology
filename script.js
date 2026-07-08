@@ -4,17 +4,18 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-  /* ── Nav: スクロールで背景を濃くする ── */
+  /* JS有効の印(スクロール出現のCSSはこのクラス配下でのみ有効) */
+  document.body.classList.add('js');
+
+  /* ── Nav: スクロールで背景を濃くする(センチナル要素をIntersectionObserverで監視) ── */
   const nav = document.querySelector('nav');
-  window.addEventListener('scroll', () => {
-    if (window.scrollY > 40) {
-      nav.style.background = 'rgba(255,248,240,0.97)';
-      nav.style.boxShadow  = '0 2px 16px rgba(0,0,0,0.06)';
-    } else {
-      nav.style.background = 'rgba(255,248,240,0.85)';
-      nav.style.boxShadow  = 'none';
-    }
-  }, { passive: true });
+  const scrollSentinel = document.getElementById('scroll-sentinel');
+  if (nav && scrollSentinel && 'IntersectionObserver' in window) {
+    const navObserver = new IntersectionObserver(([entry]) => {
+      nav.classList.toggle('scrolled', !entry.isIntersecting);
+    }, { threshold: 0 });
+    navObserver.observe(scrollSentinel);
+  }
 
   /* ── ハンバーガーメニュー ── */
   const hamburger = document.getElementById('nav-hamburger');
@@ -43,5 +44,45 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   }
+
+  /* ── スクロール出現(IntersectionObserver) ── */
+  const revealTargets = document.querySelectorAll('.reveal');
+  if (revealTargets.length > 0 && 'IntersectionObserver' in window) {
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          observer.unobserve(entry.target);   // 一度表示したら監視解除
+        }
+      });
+    }, { threshold: 0.15 });
+
+    revealTargets.forEach(el => observer.observe(el));
+  } else {
+    // 非対応環境ではそのまま表示
+    revealTargets.forEach(el => el.classList.add('visible'));
+  }
+
+  /* ── 施錠扉: クリック/Enter/Spaceで「ガチャッ」と拒む ── */
+  const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  document.querySelectorAll('.room-locked').forEach(door => {
+    const rattle = () => {
+      // reduced-motion 時は揺らさない(鍵アイコンと減光で施錠は伝わる)
+      if (reduceMotion.matches) return;
+      if (door.classList.contains('rattle')) return;   // 連打対策
+      door.classList.add('rattle');
+    };
+    door.addEventListener('click', rattle);
+    door.addEventListener('keydown', e => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();   // Space のページスクロールを抑止
+        rattle();
+      }
+    });
+    // 揺れ終わったらクラスを外して再発火可能に
+    door.addEventListener('animationend', e => {
+      if (e.animationName === 'door-rattle') door.classList.remove('rattle');
+    });
+  });
 
 });
