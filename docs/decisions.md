@@ -188,6 +188,12 @@ index.html のナビゲーションリンクを英字表記に統一: 「The Roo
 
 なお、配置時に旧デザインの `ogp_ramen.png` / `ogp_ramen_x.png`（および horse*.png・icons*.png 等の未使用旧アセット）は既にユーザー側で `assets/images/bk/` へ退避済みだったため、上書きの心配なく新ファイルを設置できた。
 
+### RAMEN扉カードの装飾提灯を削除（2026-07-08）
+door-ramen.jpg に既に提灯が写り込んでいるため、index.html の RAMEN 扉カードに重ねていた装飾用の揺れる提灯（`.door-lantern`）をHTML/CSS双方から削除。これでヒーロー・RAMEN扉カードとも、写真にもとから写っている提灯のみになった（`lantern.png` アセット自体は現在どこからも参照されていない）。
+
+### ramen.html ナビ文言の統一（2026-07-08）
+index.html のナビ変更に合わせ、ramen.html 側のナビも統一: 「The Rooms」→「Hidden Gem」/「← 路地へ」→「← Alley」。
+
 ### 未着手（次フェーズ）
 - ブラウザでの目視確認（レスポンシブ・reduced-motion・ramen.html 機能回帰）
 - OGPの実際の見え方をFacebook/Twitter等のデバッガーで確認（本番デプロイ後）
