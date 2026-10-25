@@ -194,6 +194,23 @@ door-ramen.jpg に既に提灯が写り込んでいるため、index.html の RA
 ### ramen.html ナビ文言の統一（2026-07-08）
 index.html のナビ変更に合わせ、ramen.html 側のナビも統一: 「The Rooms」→「Hidden Gem」/「← 路地へ」→「← Alley」。
 
+### ヘッダ・フッタの簡略化（2026-10-25）
+index.html / ramen.html の共通ヘッダから `Members Only` と `Hidden Gem` を削除し、index.html では `Graffiti`、ramen.html では現在地表示の `Ramen` も削除。フッタは両ページとも `Leaf Ecology` のブランド表記だけに整理した。
+
+index.html は Owner セクション（「一杯、一手、一鞍。」を含むブロック）を削除し、Rooms からフッタへ直接つながる構成に変更。ramen.html はページヘッダの可視ラベル `Ramen Notes` を削除。SNSカード用の meta description にある `Ramen Notes` は画面表示ではないため維持する。
+
+その後の見た目調整で、「ラーメン記録」の書体は元の `--font-serif-jp`（Shippori Mincho）へ戻した。ページヘッダ帯は固定高を使わず、上下パディングを `3.5rem` に増やして縦方向の余白を広げた。
+
+### ramen.html トップへ戻るボタン（2026-10-25）
+長いレビュー一覧から先頭へ戻りやすくするため、右下固定の `.back-to-top` ボタンを追加。統計エリア末尾に置いた `#back-to-top-sentinel` を IntersectionObserver で監視し、センチネルを上方向へ通過した後だけ表示する。継続的な `scroll` イベントは使用しない。
+
+通常はスムーズスクロール、`prefers-reduced-motion: reduce` では即時移動とする。ネイティブの `<button>`、`aria-label`、`:focus-visible` を備え、IntersectionObserver 非対応環境では常時表示する。z-index は150とし、モーダル（200）より背面に配置した。詳細仕様は `docs/specs/SPEC_back-to-top.md` を参照。
+
+### OGP画像の文字整理（2026-10-25）
+既存OGP画像を ImageGen の precise-object-edit で編集。`ogp_home.png` は葉アイコンと `Leaf Ecology` のブランド表記だけを残し、`MEMBERS ONLY` と日本語タグラインを背景へ自然に補完して削除した。`ogp_ramen.png` はロゴ・英字・日本語見出し・補足文をすべて削除し、文字なしのラーメン店内写真へ変更した。
+
+生成結果は目視確認後、中央基準でOGP比率へクロップし、従来と同じ1200×630 PNGとして既存ファイルを置き換えた。HTML内のOGP参照パスは変更していない。
+
 ### 未着手（次フェーズ）
 - ブラウザでの目視確認（レスポンシブ・reduced-motion・ramen.html 機能回帰）
 - OGPの実際の見え方をFacebook/Twitter等のデバッガーで確認（本番デプロイ後）

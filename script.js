@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   /* JS有効の印(スクロール出現のCSSはこのクラス配下でのみ有効) */
   document.body.classList.add('js');
+  const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
 
   /* ── Nav: スクロールで背景を濃くする(センチナル要素をIntersectionObserverで監視) ── */
   const nav = document.querySelector('nav');
@@ -15,6 +16,30 @@ document.addEventListener('DOMContentLoaded', () => {
       nav.classList.toggle('scrolled', !entry.isIntersecting);
     }, { threshold: 0 });
     navObserver.observe(scrollSentinel);
+  }
+
+  /* ── トップへ戻るボタン(統計エリア通過後に表示) ── */
+  const backToTop = document.getElementById('back-to-top');
+  const backToTopSentinel = document.getElementById('back-to-top-sentinel');
+
+  if (backToTop && backToTopSentinel) {
+    backToTop.addEventListener('click', () => {
+      window.scrollTo({
+        top: 0,
+        behavior: reduceMotion.matches ? 'auto' : 'smooth'
+      });
+    });
+
+    if ('IntersectionObserver' in window) {
+      const backToTopObserver = new IntersectionObserver(([entry]) => {
+        const hasPassedSentinel = !entry.isIntersecting && entry.boundingClientRect.top < 0;
+        backToTop.classList.toggle('is-visible', hasPassedSentinel);
+      }, { threshold: 0 });
+      backToTopObserver.observe(backToTopSentinel);
+    } else {
+      // 非対応環境では機能への導線を失わないよう常時表示
+      backToTop.classList.add('is-visible');
+    }
   }
 
   /* ── ハンバーガーメニュー ── */
@@ -64,7 +89,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   /* ── 施錠扉: クリック/Enter/Spaceで「ガチャッ」と拒む ── */
-  const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
   document.querySelectorAll('.room-locked').forEach(door => {
     const rattle = () => {
       // reduced-motion 時は揺らさない(鍵アイコンと減光で施錠は伝わる)

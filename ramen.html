@@ -37,11 +37,8 @@
   <a href="index.html" class="nav-logo">
     <div class="nav-logo-icon">🍃</div>
     <span>Leaf Ecology</span>
-    <span class="nav-badge">Members Only</span>
   </a>
   <ul class="nav-links" id="nav-links">
-    <li><a href="index.html#rooms">Hidden Gem</a></li>
-    <li><a href="ramen.html" class="active">Ramen</a></li>
     <li><a href="index.html" class="nav-cta">← Alley</a></li>
   </ul>
   <button class="nav-hamburger" id="nav-hamburger" aria-label="メニュー" aria-expanded="false">
@@ -60,9 +57,7 @@
       <div class="page-header-scrim"></div>
       <div class="steam"><i></i><i></i><i></i></div>
     </div>
-    <div class="page-eyebrow">Ramen Notes</div>
     <h1 class="page-title">ラーメン記録</h1>
-    <p class="page-sub"></p>
   </div>
 
   <!-- ── STATS BENTO ── -->
@@ -92,6 +87,9 @@
       <div class="stat-bg-emoji"></div>
     </div>
   </div>
+
+  <!-- トップへ戻るボタンの表示開始位置 -->
+  <div id="back-to-top-sentinel" aria-hidden="true"></div>
 
   <!-- ── FAVORITE SHOPS ── -->
   <div class="section-heading">
@@ -131,12 +129,13 @@
 
 <!-- ── FOOTER ── -->
 <footer class="site-foot">
-  <div class="foot-brand">
-    <span class="foot-logo">🍃 Leaf Ecology</span>
-    <span class="foot-est">Est. 2026</span>
-  </div>
-  <span class="foot-note">Private Archive · All Rights Reserved</span>
+  <span class="foot-logo">🍃 Leaf Ecology</span>
 </footer>
+
+<!-- ── BACK TO TOP ── -->
+<button class="back-to-top" id="back-to-top" type="button" aria-label="ページの先頭へ戻る">
+  <span aria-hidden="true">↑</span>
+</button>
 
 <!-- ── MODAL ── -->
 <div class="modal-overlay" id="modal-overlay">

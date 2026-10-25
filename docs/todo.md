@@ -1,5 +1,33 @@
 # Todo — Leaf Ecology
 
+## OGP画像の文字整理（2026-10-25）
+
+- [x] `ogp_home.png` は Leaf Ecology と葉アイコンだけ残して他の文字を削除
+- [x] `ogp_ramen.png` から全ての文字・ロゴを削除
+- [x] 生成結果を目視確認して既存ファイルへ反映
+- [x] `docs/decisions.md` へ変更内容を記録
+
+## ramen.html トップへ戻るボタン（2026-10-25）
+
+- [x] 機能仕様書を作成
+- [x] 右下固定ボタンと表示スタイルを追加
+- [x] IntersectionObserver による表示制御と先頭移動を実装
+- [x] reduced-motion・キーボード操作・非対応環境を考慮
+- [x] JS構文・差分・JSON検証を実施
+- [ ] ブラウザで表示位置・スクロール動作を目視確認
+
+## ヘッダ・フッタ簡略化（2026-10-25）
+
+- [x] index.html / ramen.html のヘッダから Members Only・Hidden Gem・Graffiti を削除
+- [x] index.html / ramen.html のフッタを Leaf Ecology 表記のみに簡略化
+- [x] index.html の Owner セクション（「一杯、一手、一鞍。」からフッタ直前まで）を削除
+- [x] 不要になった共通CSS・トップ専用CSSを削除
+- [x] ramen.html のヘッダから Ramen、ページ見出しから Ramen Notes を削除
+- ~~「ラーメン記録」の書体を他の日本語見出しと統一~~ → 後続指示で元の書体へ復元
+- [x] 「ラーメン記録」の書体を元の和文明朝へ戻す
+- [x] ramen.html のページヘッダ帯の縦幅を広げる
+- [ ] 検証コマンドとブラウザ表示確認を実施
+
 ## 全面リデザイン「深夜の裏路地」(2026-07-08 着手)
 
 コンセプト: 深夜の裏路地に迷い込み、奥に RAMEN / POKER / RACE の三つの扉を見つけるパーソナルワールド。企画・実装計画は `ramen-plaer-race-do-temporal-lightning.md`(plan file)を参照。旧「THE CLUBHOUSE」構想はこのリデザインに統合し、方針を刷新。

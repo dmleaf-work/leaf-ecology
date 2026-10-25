@@ -209,38 +209,6 @@
 .room-open:hover .room-door-img { transform: scale(1.04); }
 
 /* ══════════════════════════════
-   OWNER — 店主の卓
-══════════════════════════════ */
-.owner {
-  border-top: 1px solid var(--line);
-  padding: 7rem 2rem;
-  text-align: center;
-  background: radial-gradient(ellipse 60% 50% at 50% 0%, var(--lantern-dim), transparent);
-}
-.owner-inner { max-width: 640px; margin: 0 auto; }
-.owner-quote {
-  font-family: var(--font-serif-jp);
-  font-weight: 600;
-  font-size: clamp(1.9rem, 4.5vw, 3rem);
-  letter-spacing: 0.22em;
-  color: var(--steam);
-  margin-bottom: 2rem;
-}
-.owner-body {
-  font-family: var(--font-serif-jp);
-  font-weight: 500;
-  font-size: 0.92rem;
-  letter-spacing: 0.1em;
-  line-height: 2.4;
-  color: var(--mist);
-}
-.owner-rule {
-  width: 72px; height: 1px;
-  margin: 3rem auto 0;
-  background: linear-gradient(to right, transparent, var(--lantern), transparent);
-}
-
-/* ══════════════════════════════
    RESPONSIVE
 ══════════════════════════════ */
 @media (max-width: 900px) {
@@ -253,5 +221,4 @@
 
 @media (max-width: 480px) {
   .rooms { padding: 4rem 1.25rem 3.5rem; }
-  .owner { padding: 5rem 1.5rem; }
 }
