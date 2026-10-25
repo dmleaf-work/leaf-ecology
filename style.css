@@ -189,14 +189,6 @@ body.js .reveal.visible {
 /* ══════════════════════════════
    セクション共通見出し
 ══════════════════════════════ */
-.section-label {
-  display: block;
-  font-family: var(--font-mono);
-  font-size: 0.68rem; font-weight: 500;
-  text-transform: uppercase; letter-spacing: 0.2em;
-  color: var(--lantern);
-  margin-bottom: 0.9rem;
-}
 .section-title {
   font-family: var(--font-serif-jp);
   font-weight: 600;

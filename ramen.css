@@ -70,6 +70,7 @@
   background: var(--wall);
   border-radius: var(--radius-card);
   padding: 1.5rem 1.5rem 1.25rem;
+  min-height: 136px;
   border: 1px solid var(--line);
   display: flex; flex-direction: column; gap: 0.3rem;
   transition: transform 0.2s, box-shadow 0.2s;
@@ -122,8 +123,16 @@
 .stat-num {
   font-size: 2.8rem; font-weight: 900; letter-spacing: -0.05em; line-height: 1;
 }
-.stat-desc { font-size: 0.75rem; opacity: 0.75; }
-
+.stat-value {
+  display: flex;
+  align-items: baseline;
+  gap: 0.18rem;
+}
+.stat-unit {
+  font-size: 0.9rem;
+  font-weight: 700;
+  opacity: 0.8;
+}
 /* ── FILTER BAR ── */
 .filter-bar {
   display: flex; align-items: center; gap: 0.5rem;
@@ -277,11 +286,6 @@
   font-size: 1.5rem; font-weight: 900; letter-spacing: -0.03em;
   color: var(--steam);
 }
-.section-heading span {
-  font-size: 0.7rem; font-weight: 700; letter-spacing: 0.08em;
-  text-transform: uppercase; color: var(--mist);
-}
-
 .fav-grid {
   display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;
   margin-bottom: 3rem;
@@ -433,6 +437,7 @@
 }
 @media (max-width: 480px) {
   .stats-bento { grid-template-columns: 1fr 1fr; }
+  .stat-card { min-height: 127px; }
   .stat-num { font-size: 2.2rem; }
   .back-to-top { right: 1rem; bottom: 1rem; }
 }

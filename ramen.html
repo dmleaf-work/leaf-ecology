@@ -39,7 +39,7 @@
     <span>Leaf Ecology</span>
   </a>
   <ul class="nav-links" id="nav-links">
-    <li><a href="index.html" class="nav-cta">← Alley</a></li>
+    <li><a href="index.html" class="nav-cta">← HIDDEN GEM</a></li>
   </ul>
   <button class="nav-hamburger" id="nav-hamburger" aria-label="メニュー" aria-expanded="false">
     <span></span><span></span><span></span>
@@ -64,26 +64,28 @@
   <div class="stats-bento">
     <div class="stat-card accent-green">
       <div class="stat-label">Total Bowls</div>
-      <div class="stat-num" id="stat-bowls">0</div>
-      <div class="stat-desc">食べた杯数</div>
+      <div class="stat-value">
+        <div class="stat-num" id="stat-bowls">0</div>
+        <span class="stat-unit">杯</span>
+      </div>
       <img class="stat-bg-img" src="assets/images/ramen.png" alt="">
     </div>
     <div class="stat-card accent-dark">
       <div class="stat-label">Shops Visited</div>
-      <div class="stat-num" id="stat-shops">0</div>
-      <div class="stat-desc">訪問した店舗数</div>
+      <div class="stat-value">
+        <div class="stat-num" id="stat-shops">0</div>
+        <span class="stat-unit">件</span>
+      </div>
       <img class="stat-bg-img" src="assets/images/ramenya.png" alt="">
     </div>
     <div class="stat-card accent-red">
       <div class="stat-label">Most Favarite</div>
       <div class="stat-num" id="stat-favs">0</div>
-      <div class="stat-desc">激推しの店舗数</div>
       <img class="stat-bg-img" src="assets/images/gekiosi.png" alt="">
     </div>
     <div class="stat-card">
-      <div class="stat-label">最終更新</div>
+      <div class="stat-label">Last Update</div>
       <div class="stat-num" id="stat-latest" style="font-size:1.1rem; padding-top:0.2rem;">-</div>
-      <div class="stat-desc">直近の更新</div>
       <div class="stat-bg-emoji"></div>
     </div>
   </div>
@@ -94,7 +96,6 @@
   <!-- ── FAVORITE SHOPS ── -->
   <div class="section-heading">
     <h2>激推し</h2>
-    <span>My Picks</span>
   </div>
   <div class="fav-grid" id="fav-grid"></div>
 

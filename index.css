@@ -41,8 +41,6 @@
 .hero-content {
   position: relative; z-index: 2;
   max-width: 640px;
-  display: flex; flex-direction: column;
-  gap: 1.1rem;
 }
 .hero-title {
   font-family: var(--font-serif-en);
@@ -51,33 +49,6 @@
   line-height: 0.98;
   color: var(--steam);
 }
-.hero-tagline {
-  font-family: var(--font-serif-jp);
-  font-weight: 500;
-  font-size: clamp(0.95rem, 1.6vw, 1.05rem);
-  letter-spacing: 0.08em;
-  line-height: 1.9;
-  color: var(--mist);
-  max-width: 38ch;
-}
-.hero-cta {
-  display: inline-flex; align-items: center; gap: 0.6rem;
-  align-self: flex-start;
-  font-family: var(--font-mono);
-  font-size: 0.78rem; font-weight: 600;
-  text-transform: uppercase; letter-spacing: 0.14em;
-  color: var(--night-deep);
-  background: var(--lantern);
-  text-decoration: none;
-  padding: 0.85rem 1.5rem;
-  border-radius: var(--radius-pill);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-}
-.hero-cta:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 12px 28px rgba(240,160,75,0.25);
-}
-
 /* ══════════════════════════════
    THE ROOMS — 三つの扉
 ══════════════════════════════ */
@@ -87,6 +58,10 @@
   padding: 6rem 2rem 5rem;
 }
 .section-head { margin-bottom: 2.75rem; }
+.rooms .section-title {
+  font-family: var(--font-serif-en);
+  letter-spacing: 0.08em;
+}
 
 .room-grid {
   display: grid;
@@ -168,9 +143,6 @@
 .status-open   { color: var(--neon); }
 .status-locked { color: var(--mist); }
 
-.room-door-heading {
-  display: flex; align-items: baseline; gap: 0.75rem; flex-wrap: wrap;
-}
 .room-code {
   font-family: var(--font-serif-en);
   font-size: clamp(1.6rem, 3.2vw, 2.6rem);
@@ -179,31 +151,6 @@
 }
 /* 開放中の扉の看板グロー・明滅は共通部品 .neon-sign(style.css)が担う */
 .room-stack .room-code { font-size: clamp(1.3rem, 2.2vw, 1.8rem); }
-
-.room-sub {
-  font-family: var(--font-serif-jp);
-  font-size: 0.95rem;
-  color: var(--mist);
-  letter-spacing: 0.08em;
-}
-
-.room-desc {
-  font-size: 0.82rem;
-  line-height: 1.8;
-  color: var(--mist);
-  max-width: 32ch;
-}
-.room-stack .room-desc { font-size: 0.76rem; }
-.room-locked .room-desc { color: rgba(134,152,141,0.7); }
-
-.room-cta {
-  display: inline-flex; align-items: center; gap: 0.5rem;
-  font-family: var(--font-mono);
-  font-size: 0.76rem; font-weight: 600;
-  text-transform: uppercase; letter-spacing: 0.16em;
-  color: var(--lantern);
-  margin-top: 0.4rem;
-}
 
 .room-open:hover { border-color: rgba(240,160,75,0.5); }
 .room-open:hover .room-door-img { transform: scale(1.04); }
